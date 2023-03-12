@@ -1,3 +1,77 @@
-{
-	"Surviver Perks": ["Bond", "Prove Thyself", "Leader", "Quick & Quiet", "Sprint Burst", "Empathy", "Botany Knowledge", "Self-Care", "Iron Will", "Calm Spirt", "Saboteur", "Balanced Landing", "Urban Evasion", "Streetwise", "Sole Survivor", "Object of Obsession", "Decisive Strike", "Open-Handed", "Up the Ante", "Ace in the Hole", "Left Behind", "Borrowed Time", "Unbreakable", "Techniciaan", "Lithe", "Alert", "We're Gonna Live Forever", "Dead Hard", "No Mither", "Wake Up!", "Pharmacy", "Vigil", "Tenacty", "Detective's Hunch", "Stake Out", "Dance With Me", "Windows of Opportunity", "Boil Over", "Diversion", "Deliverance", "AutoDidact", "Breakdown", "Aftercare", "Distortion", "Solidarity", "Poised", "Head On", "Flip-Flop", "Buckle Up", "Mettle of Man", "Situational Awareness", "Self-Aware", "Inner Healing", "Guardian", "Kinship", "Renewal", "Lucky Break", "Any Means Necessary", "Breakout", "Off the Record", "Red Herring", "For the People", "Soul Guard", "Blood Pact", "Repressed Alliance", "Visionary", "Desperate Measures", "Built to Last", "Appraisal", "Deception", "Power Struggle","Fast Track", "Smash Hit", "Self-Preservation", "Counterforce", "Resurgence", "Blast Mine", "Bite the Bullet", "Flashbang", "Rookie Spirit", "Clairvoyance", "Boon: Circle of Healing", "Boon: Shadow Step", "Overcome", "Corrective Action", "Boon: Exponential", "Parental Guidance", "Empathic Connection", "Boon: Dark Theory", "Inner Focus", "Residual Manifest", "Overzealous", "Wiretap", "Reactive Healing", "Low Profile", "Better than New", "Reassurance", "Hyperfocus", "Potential Energy", "Fogwise", "Quick Gambit", "Dark Sense", "Déjà Vu", "Hope", "Kindred", "Lightweight", "No One Left Behind", "Plunderer's Instinct", "Premonition", "Resillience", "Slippery Meat", "Small Game", "Spine Chill", "This Is Not Happening", "We'll Make It", "Friendly Competition", "Teamwork: Power of Two", "Cut Loose", "Blood Rush", "Teamwork: Collective Stealth", "Background Player" ]
+	{"0":{
+	"name": "Pig",
+	"Perks": ["Hangman's Trick", "Surveillance", "Make Your Choice"],
+	"Perk Description" :[],
+	"Add ons": ["Shattered Syringe", "John's Medical File", "Interlocking Razor", "Combat Straps", "Workshop Grease", "Utility Blades", "Razor Wires", "Last Will", "Face Mask", "Slow-Release Toxin", "Rusty Attachments", "Rules Set No.2", "Jigsaw's Annotated Plan", "Bag of Gears", "Tampered Timer", "Jigsaw's Sketch", "Crate of Gears", "Amanda's Secret", "Amanda's Letter", "Video Tape"]
+	},
+	"1":{
+	"name": "Nurse",
+	"Perks": ["Stridor", "Thanatophobia", "A Nurse's Calling"],
+	"Perk Description" :[],
+	"Add ons": ["Wooden Horse", "White Nut Comb", "Plaid Flannel", "Metal Spoon", "Pocket Watch", "Dull Bracelet", "Dark Cincture", "Catatonic Boy's Treasure", "Bad Man Keepsake", "Spasmodic Breath", "Heavy Painting", "Fragile Wheeze", "Ataxic Respiration", "Anxious Gasp"," Kavanagh's Last Breath", "Jenner's Last Breath", "Campbell's Last Breath", "'Bad Man's' Last Breath", "Torn Bookmark", "MatchBox"]
+},
+	"2": {
+		"name": "Trapper",
+		"Perks": ["Unnerving Presence", "Brutal Strength", "Agitation"],
+		"Perk Description" :[],
+		"Add ons": ["Trapper Gloves", "Padded Jaws", "Makeshift Wrap", "Bear Oil", "Wax Brick", "Serrated Jaws", "Lengthened Jaws", "Coffee Grounds", "4-Coil Spring Kit", "Trapper Bag", "Tar Bottle", "Secondary Coil", "Rusted Jaws", "Fastening Tools", "Trapper Sack", "Tension Sppring", "Oily Coil", "Honing Stone", "Iridescent Stone", "Bloody Coil"]
+	},
+	"3":{
+		"name": "Alber Wesker",
+		"Perks": ["Superior Anatomy", "Awakened Awareness", "Terminus"],
+		"Perk Description" :[],
+		"Add ons": ["Jewel Beele", "Unicorn Medallion", "R.P.D Shoulder Walkie", "Uroboros Tendril", "Loose Crank", "Leather Gloves", "Lion Medallion", "Chalice (Gold)", "Bullhorn", "Portable Safe", "Red Herb", "Maiden Medallion", "Video Conference Device", "Egg(Gold)", "Dark Sunglasses", "Green Herb", "Helicoper Stick", "Uroboros Virus", "Lab Photo", "Iridescent Uroboros Vial"]
+	},
+	"4":{
+		"name":"The Clown",
+		"Perks":["Bamboozle", "Coulrophobia", "Pop Goes the Weasel"],
+		"Perk Description" :[],
+		"Add ons": ["VHS Porn", "Robin Feather", "Party Bottle", "Fingerless Parade Gloves", "Thick Cork Stopper", "Sticker Soda Bottle", "Starling Feather", "Solvent Jug", "Kerosene Can", "Sulphuric Acid Vial", "Spirt of Hartshorn", "Smelly Inner Soles", "Flask of Bleach", "Bottle of Chloroform", "Garish Make-Up Kit", "Ether 15 Vol%", "Cigar Box", "Cheap Gin Bottle", "Tattoo's Middle Finger", "Redhead's Pinkie Finger"]
+	},
+	"5": {
+		"name": "Bubba",
+		"Perks": ["Knock Out", "Barbecue & Chilli", "Franklin's Demise"],
+		"Perk Description" :[],
+		"Add ons": ["Vegetable Oil", "Spark Plug", "Speed Limiter", "Chainsaw File", "Long Guide Bar", "Primer Bulb", "Knife Scratches", "Homemade Muffler", "Chilli", "The Grease", "The Beast's Marks", "Shop Lubricant", "Grisly Chains", "Begrimed Chains", "Rusted Chains", "Light Chassis", "Depth Gauge Rake", "Award-winning Chilli", "Iridescent Flesh", "Carburettor Tuning Guide"]
+	},
+	"6": {
+		"name": "The Huntress",
+		"Perks": ["Beast of Prey", "Territorial imerative", "Hex: Huntress Lullaby"],
+		"Perk Description" :[
+			"Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you unpredictable. Upon gaining the Bloodlust Status Effect, Beast of Prey Activates:  Grants the Undetectable Status Effect for as long as Bloodlust is active.  Beast of prey grants 30/40/50 % bonus Bloodpoints for actions in the Hunter Category.", 
+			"Unlocks potential in your Aura-reading ability. The Aura of a Survivor entering the Basement when you are at least 32 meters away is revealed to you for 3 seconds. Territorial Imperative has a cool-down of 30/25/20 second", 
+			"A Hex rooting its power in despair. Your huunt is an irresistible song of dread which muddles your prey's attention. Survivors receive a 2/4/6 % Regression penalty on Failed Skill Checks for Repair aand Healing actions. Lullaby grows in power each time you Hook a Survivor. Gaining 1 Token, and affecting Repair and Healling Skill Checks: 1 Token: shortens the time between the Warning sound and the Skill check by -14 %. 2 Tokens: shortens the time between the Warning sound and the Skill check by -28 %. 3 Tokens: shortens the time between the Warning sound and the Skill check by -42 %. 4 Tokens: shortens the time between the Warning sound and the Skill check by -56 %. 5 Tokens: disables the Warning sound."],
+		"Add ons":["Yellowed Cloth", "Coarse Stone ", "Bandaged Haft", "Amanita Toxin", "Weighted Head", "Shiny Pin", "Oak Haft", "Manna Grass Braid", "Leather Loop", "Venomous Concoction", "Rusty Head", "Rose Root", "Flower Babushka", "Deerskin Gloves", "Wooden Fox", "Infantry Belt", "Glowing Concoction", "Begrimed Head", "Soldier's Puttee", "Iridescent Head"]
+	},
+	"7": {
+		"name": "The Oni",
+		"Perks": [""]
+	},
+	"8": {
+		"name": "Freddy Krueger",
+		"Perks": []
+	},
+	"9":{
+		"name": "The Wraith",
+		"Perks": []
+	},
+	"10":{
+		"name": "Onryō",
+		"Perks": []
+	},
+	"11":{
+		"name": "The Plauge",
+		"Perks":[]
+	},
+	"12":{
+		"name": "The Twins",
+		"Perks": []
+	},
+	"13":{
+	"name": "The Dredge",
+	"Perks":[]
+	}
+
+
+
 }
