@@ -84,7 +84,7 @@
 		"Perks":["Dissolution", "Darkness Revealed", "Septic Touch"],
 		"Perk Descriptions":[],
 		"Add ons": ["Wooden Plank", "Mortar and Pestle", "Follower's Cowl", "Caffeine Tablets", "Malthinker's Skull", "Haddie's Calendar", "Fallen Shingle", "Burnt Letters", "Air Freshener", "Worry Stone", "War Helmet", "Ottomarian Writing", "Destroyed Pillow", "Broken Doll", "Tilling Blade", "Lavalier Microphone", "Field Recorder", "Boat Key", "Sacrificial Knife", "Iridescent Wooden Plank"]
-	},
+},
 	"14": {
 		"Name": "DeathSlinger",
 		"Perks":["Gearhead", "Dead Man's Switch", "Hex: Retribuition"],
@@ -101,20 +101,21 @@
 		"Name": "The Executioner",
 		"Perks":["Forced Penance", "Trail of Torment", "Deathbound"],
 		"Perk Descriptions":[],
-		"Add ons": ["Lead Ring", "Dead Butterfly", "Copper Ring", "Black Strap", "Wax Doll", "Spearhead", "Leopard-Print Fabric", "Forgotton Videotape", "Cinderella Music Box", ""]
+		"Add ons": ["Lead Ring", "Dead Butterfly", "Copper Ring", "Black Strap", "Wax Doll", "Spearhead", "Leopard-Print Fabric", "Forgotton Videotape", "Cinderella Music Box", "Vaitiel Sect Photograph", "Tablet of the Oppressor", "Misty Day, Remains of Judgement", "Mannequin Foot", "Burning Man Painting", "Scarlet Egg", "Rust-Coloured Egg", "Lost Memories Book", "Crimson Ceremony Book", "Obsidian Goblet", "Iridescent Seal of Metatron"]
 	},
 	"17": {
 		"Name": "Legion",
 		"Perks":["Discordance", "Mad Grit", "Iron Maiden"],
 		"Perk Descriptions":[],
-		"Add ons": []
+		"Add ons": ["Smiley Face Pin", "Scratched Ruler", "Mischief List", "Friendship Bracelet", "Never-Sleep Pills", "Mural Sketch", "Julie's Mix Tape", "Etched Ruler", "Defaced Smiley Pin", "The Legion Pin", "Susie's Mix Tape", "Stolen Sketch Book", "Stylish Sunglasses", "Stab Wounds Study", "Frank's Mix Tape", "Filthy Blade", "BFFs", "Iridescent Button", "Fuming Mix Tape"]
 		},
 	"18": {
 		"Name": "Blight",
-		"Perks":[],
+		"Perks":["Dragon's Grip", "Hex: Blood Favour", "Hex: Undying"],
 		"Perk Descriptions":[],
-		"Add ons": []
-	},"19": {
+		"Add ons": ["Placebo Tablet", "Foxglove", "Compound Seven", "Chipped Monocle", "Shredded Notes", "Plague Bile", "Canker Thorn", "Blighted Rat", "Umbra Salts", "Rose Tonic", "Compound Twenty-One", "Blighted Crow", "Adrenaline Vial", "Vigo's Journal", "Summoning Stone", "Soul Chemical", "Alchemist's Ring", "Iridescent Blight Tag", "Compound Thirty-Three"]
+	},
+	"19": {
 		"Name": "Michael Myers",
 		"Perks":[],
 		"Perk Descriptions":[],
@@ -140,15 +141,19 @@
 		},
 	"23": {
 		"Name": "The Skull Merchant",
-		"Perks":[],
+		"Perks":["THWACK!", "Leverage", "Game Afoot"],
 		"Perk Descriptions":[],
-		"Add ons": []
+		"Add ons": ["Ultrasonic Trap Speaker", "High-Power Floodlight", "High-Current Upgrade", "Adi Valente Issue 1", "Stereo Remote Mic", "Shotgun Speakers", "Supercharge", "Low-Power Mode", "Adaptive Lighting", "Vital Targeting Processor", "Powdered Glass", "Loose Screw", "Infrared Upgrade", "Brown Noise Generator", "Randomised Strobes", "Geographical Readout", "Expired Batteries", "Advanced Movement Prediction", "Prototype Rotor", "Iridescent Unpublished Manuscript"]
 	},
 	"24": {
 		"Name": "Artist",
-		"Perks":[],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perks":["Grim Embrace", "Scourge Hook: Pain Resonance", "Hex: Pentimento"],
+		"Perk Descriptions":[
+			"Each time you hook a Survivor for the first time you gain a Token; Once you have Recived 4 Tokens you Entity block all Generators for 30/35/40 Seconds, and the Aura of the Obsession is revealed to you for 5 seconds",
+			"Placing a Survivor on a Scourge Hook, The Gen with most progression exploeds losing 9/12/15 % of its progression and starts to regress, Survivors will Scream",
+			" For each Rekindled Totem active at the same time, Hex: Pentimento gains an additional effect: 1 Totem: Decreases all Survivors' Repair speed by 20/25/30 %, 2 Totems: Decreases all Survivors' Healing speed by 20/25/30 %, 3 Totems: Decreases all Survivors' Recovery speed from being downed by 20/25/30 %, 4 Totems: Decreases all Survivors' Exit Gate Opening speed by 20/25/30 %, 5 Totems: All Totems are permanently blocked by The EntityIconHelp entity.png."
+	],
+		"Add ons": ["Vibrant Obituary", "Thick Tar", "Oil Paints", "Choclo Corn", "Velve Fabric", "Untitled Agony", "Still Life Crow", "Festering Carrion", "Automatic Drawing", "Throny Nest", "Silver Bell", "O Grief, O Lover", "Darkest Ink", "Charcoal Stick", "Severed Tongue", "Severed Hands", "Matias' Baby Shoes", "Ink Egg", "Iridescent Feather", "Garden of Rot"]
 	},
 	"25": {
 		"Name": "Trickster",
@@ -164,9 +169,13 @@
 	},
 	"27": {
 		"Name": "The Knight",
-		"Perks":[],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perks":["Nowhere to Hide", "Hex: Face the Darkness", "Hubris"],
+		"Perk Descriptions":[
+			"Damaging a Generator Reveals the Auras of all Survivors withing 24 Meters of your position for 3/4/5 seconds.",
+			"Once you injure a survivor if there is a dull totem on the map, Face the Darkness activates;All other Survivors will scream every 35/30/20 secondsif they are outside Terror Radius reveling their Auras for 2 seconds each time.",
+			"Whenever you are stunned by a Survivor that survivor becomes Exposed for 10/15/20 seconds"
+		],
+		"Add ons": ["Tattered Tabard", "Pillaged Mead", "Map of the Realm", "Gritty Lump", "Treated Blade", "Dried Horsemeat", "Cold Steel Manacles", "Call To Arms", "Battle Axe Head", "Town Watch's Torch", "Ironworker's Tongs", "Grim Iron Mask", "Chain Mail Fragment", "Broken Hilt", "Lightweight Greaves", "Healing Poultice", "Flint and Steel", "Blacksmith's Hammer", "Knight's Contract", "Iridescent Company Banner" ]
 	},
 	"28": {
 		"Name": "The Spirt",
