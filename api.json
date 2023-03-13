@@ -117,27 +117,35 @@
 	},
 	"19": {
 		"Name": "Michael Myers",
-		"Perks":[],
-		"Perk Descriptions":[],
+		"Perks":["Save the Best for Last", "Play with Your Food", "Dying Light"],
+		"Perk Descriptions":["Each time you hit a Survivor other than your Obsession with a Basic Attack, Save the Best for Last gains 1 Token, up to a maximum of 8 Tokens: Gain a stack-able 5 % Cool-down reduction on successful attacks per Token, up to a maximum of 40 %. Each time you hit your Obsession with a Basic Attack, Save the Best for Last loses 4/3/2 Tokens. When the Obsession is sacrificed or killed, you can neither gain nor lose any more Tokens.",
+		" Each time you chase your and let them escape, Play with Your Food receives 1 Token, up to a maximum of 3 Tokens: Each Token applies a stack-able 3/4/5 % Status Effect, up to a maximum of 9/12/15 %. Performing Basic Attacks, or Special Attacks that can damage Survivors, consumes 1 Token. Play with Your Food has a cool-down of 10 seconds on Token-accumulation.",
+		" Each time you hook a Survivor other than your you gain 1 Token: For as long as the Obsession is alive, all other Survivors suffer from a stack-able 2/2.5/3 % penalty to Repairing, Healing, and Sabotaging speeds per Token, up to a maximum of 22/27.5/33 % or 11 Tokens. The Obsession is unaffected by this penalty and instead granted a permanent 33 % Action Speed bonus to Unhooking and Healing other Survivors."
+	],
 		"Add ons": []
 		},
 	"20": {
 		"Name": "Hillbilly",
-		"Perks":[],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perks":["Enduring", "Lightborn", "Tiinkerer"],
+		"Perk Descriptions":["Reduces Pallet stun duration by 40/45/50 %", 
+		"The of SurvivorsIconHelpLoading survivor.png attempting to blind you with a Flashlight are revealed to you for 6/8/10 seconds.",
+		"Whenever a is repaired to 70 %, you benefit from the following effects: Triggers a Loud Noise Notification for that Generator, revealing its location. Grants the Status Effect for the next 12/14/16 seconds."
+	],
+		"Add ons": ["Steel Toe Boots", "Junkyard Air Filter", "Heavy Clutch", "Speed Limiter", "Dad's Boots", "Punctured Muffler", "Off-Brand Motor Oil", "Death Engravings", "Big Buckle", "Mother's Helpers", "Low Kickback Chains", "Leafy Mash", "Doom Engravings", "Black Grease", "Tuned Carburettor", "Spiked Boots", "Pighouse Gloves", "LoPro Chains", "Apex Muffler", "Iridescent Brick"]
 		},
 	"21": {
 		"Name": "Nemesis",
-		"Perks":[],
-		"Perk Descriptions":[],
-		"Add ons": []
-		},
+		"Perks":["Lethal Pursuer", "Hysteria", "Eruption"],
+		"Perk Descriptions":["Whenever a is repaired to 70 %, you benefit from the following effects: Triggers a Loud Noise Notification for that Generator, revealing its location. Grants the Status Effect for the next 12/14/16 seconds.",
+		"Whenever you put a healthy Survivor into the Injured, all injured Survivors suffer from the Status Effect for 20/25/30 seconds. Hysteria has a cool-down of 30 seconds.",
+		"Performing the Damage Generator Action on a applies Eruption: All affected Generators are highlighted to you in yellow. The next time any enters the Dying by any means, all affected Generators explode and immediately start regressing, which removes the highlighted Aura. Applies an immediate Progression penalty of -10 % of the total Progression. Causes all Survivors repairing the afflicted Generators to scream and reveal their to you for 6/8/10 seconds."],
+		"Add ons": ["Visitor Wristband", "S.T.A.R.S Field Combat Manual", "Damaged Syringe", "Brian's Intestine", "Zombie Heart", "Mikhail's Eye", "Marvin's Blood", "Adrenaline Injector", "Admin Wristband", "Tyrant Gore", "T-Virus Sample", "Serotonin Injector", "Plant 43 Vines", "Licker Tounge", "NE-a Parasite", "Jill's Sandwich", "Depleted Ink Ribbon", "Broken Recovery Coin", "Shattered S.T.A.R.S. Badge", "Iridescent Umbrella Badge"]
+	},
 	"22": {
 		"Name": "Scream",
-		"Perks":[],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perks":["I'm All Ears", "Thrilling Tremors", "Furtive Chase"],
+		"Perk Descriptions":["Any Survivor performing a rushed action within 48 metres of your location has their revealed to you for 6 seconds. I'm All Ears can only be triggered once every 60/50/40 seconds.", "After picking up a all not currently being repaired by Survivors are blocked by The Entity for the next 16 seconds. The Auras of blocked Generators are highlighted to you in white. Thrilling Tremors has a cool-down of 100/80/60 seconds.", "Each time you hook your Obsession, you gain 1 Token, up to a maximum of 2/3/4 Tokens: While in a Chase, your Terror Radius is reduced by 4 metres per accumulated Token. When a Survivor rescues the Obsession from the Hook, that Survivor will become the new Obsession."],
+		"Add ons": ["Philly", "Walleye's Matchbook", "Headline Cut-Outs", "Cheap Cologne", "Telephoto Lens", "Cinch Straps", "Olsen's Journal", "Olsen's Address Book", "Marked Map","Olsen's Wallet", "Leather Knife Sheath", "Lasting Perfume", "Knife Belt Clip", "Chewed Pen", "Victim's Detailed Routine", "Night Vision Monocular", "Drop-Leg Knife Sheath", "Driver's License", "Ghost Face Caught on Tape", "Outdoor Security", "Outdoor Security Camera"]
 		},
 	"23": {
 		"Name": "The Skull Merchant",
