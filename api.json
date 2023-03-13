@@ -95,13 +95,13 @@
 		"Name": "The Cenobite",
 		"Perks":["Deadlock", "Hex: Plaything", "Scourge Hook: Gift of Pain"],
 		"Perk Descriptions":[],
-		"Add ons": []
+		"Add ons": ["Leather Strip", "Lively Crickets", "Burning Candle", "Bent Nail", "Wriggling Maggots", "Spoiled Meal", "Skewered Rat", "Liquified Gore", "Flickering Television", "Torture Pillar", " Kavanagh's Last Breath", "Slice of Frank", "Larry's Remains", "Larry's Blood" ,"Frank's Heart", "Original Pain", "Impailing Wire", "Greasy Black Lens", "Chatterer's Tooth", "Iridescent Lament Configuration", "Engineer's Fang"]
 	},
 	"16": {
 		"Name": "The Executioner",
 		"Perks":["Forced Penance", "Trail of Torment", "Deathbound"],
 		"Perk Descriptions":[],
-		"Add ons": []
+		"Add ons": ["Lead Ring", "Dead Butterfly", "Copper Ring", "Black Strap", "Wax Doll", "Spearhead", "Leopard-Print Fabric", "Forgotton Videotape", "Cinderella Music Box", ""]
 	},
 	"17": {
 		"Name": "Legion",
