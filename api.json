@@ -1,41 +1,41 @@
 	{"0":{
-	"name": "Pig",
+	"Name": "Pig",
 	"Perks": ["Hangman's Trick", "Surveillance", "Make Your Choice"],
 	"Perk Description" :[],
 	"Add ons": ["Shattered Syringe", "John's Medical File", "Interlocking Razor", "Combat Straps", "Workshop Grease", "Utility Blades", "Razor Wires", "Last Will", "Face Mask", "Slow-Release Toxin", "Rusty Attachments", "Rules Set No.2", "Jigsaw's Annotated Plan", "Bag of Gears", "Tampered Timer", "Jigsaw's Sketch", "Crate of Gears", "Amanda's Secret", "Amanda's Letter", "Video Tape"]
 	},
 	"1":{
-	"name": "Nurse",
+	"Name": "Nurse",
 	"Perks": ["Stridor", "Thanatophobia", "A Nurse's Calling"],
 	"Perk Description" :[],
 	"Add ons": ["Wooden Horse", "White Nut Comb", "Plaid Flannel", "Metal Spoon", "Pocket Watch", "Dull Bracelet", "Dark Cincture", "Catatonic Boy's Treasure", "Bad Man Keepsake", "Spasmodic Breath", "Heavy Painting", "Fragile Wheeze", "Ataxic Respiration", "Anxious Gasp"," Kavanagh's Last Breath", "Jenner's Last Breath", "Campbell's Last Breath", "'Bad Man's' Last Breath", "Torn Bookmark", "MatchBox"]
 },
 	"2": {
-		"name": "Trapper",
+		"Name": "Trapper",
 		"Perks": ["Unnerving Presence", "Brutal Strength", "Agitation"],
 		"Perk Description" :[],
 		"Add ons": ["Trapper Gloves", "Padded Jaws", "Makeshift Wrap", "Bear Oil", "Wax Brick", "Serrated Jaws", "Lengthened Jaws", "Coffee Grounds", "4-Coil Spring Kit", "Trapper Bag", "Tar Bottle", "Secondary Coil", "Rusted Jaws", "Fastening Tools", "Trapper Sack", "Tension Sppring", "Oily Coil", "Honing Stone", "Iridescent Stone", "Bloody Coil"]
 	},
 	"3":{
-		"name": "Alber Wesker",
+		"Name": "Alber Wesker",
 		"Perks": ["Superior Anatomy", "Awakened Awareness", "Terminus"],
 		"Perk Description" :[],
 		"Add ons": ["Jewel Beele", "Unicorn Medallion", "R.P.D Shoulder Walkie", "Uroboros Tendril", "Loose Crank", "Leather Gloves", "Lion Medallion", "Chalice (Gold)", "Bullhorn", "Portable Safe", "Red Herb", "Maiden Medallion", "Video Conference Device", "Egg(Gold)", "Dark Sunglasses", "Green Herb", "Helicoper Stick", "Uroboros Virus", "Lab Photo", "Iridescent Uroboros Vial"]
 	},
 	"4":{
-		"name":"The Clown",
+		"Name":"The Clown",
 		"Perks":["Bamboozle", "Coulrophobia", "Pop Goes the Weasel"],
 		"Perk Description" :[],
 		"Add ons": ["VHS Porn", "Robin Feather", "Party Bottle", "Fingerless Parade Gloves", "Thick Cork Stopper", "Sticker Soda Bottle", "Starling Feather", "Solvent Jug", "Kerosene Can", "Sulphuric Acid Vial", "Spirt of Hartshorn", "Smelly Inner Soles", "Flask of Bleach", "Bottle of Chloroform", "Garish Make-Up Kit", "Ether 15 Vol%", "Cigar Box", "Cheap Gin Bottle", "Tattoo's Middle Finger", "Redhead's Pinkie Finger"]
 	},
 	"5": {
-		"name": "Bubba",
+		"Name": "Bubba",
 		"Perks": ["Knock Out", "Barbecue & Chilli", "Franklin's Demise"],
 		"Perk Description" :[],
 		"Add ons": ["Vegetable Oil", "Spark Plug", "Speed Limiter", "Chainsaw File", "Long Guide Bar", "Primer Bulb", "Knife Scratches", "Homemade Muffler", "Chilli", "The Grease", "The Beast's Marks", "Shop Lubricant", "Grisly Chains", "Begrimed Chains", "Rusted Chains", "Light Chassis", "Depth Gauge Rake", "Award-winning Chilli", "Iridescent Flesh", "Carburettor Tuning Guide"]
 	},
 	"6": {
-		"name": "The Huntress",
+		"Name": "The Huntress",
 		"Perks": ["Beast of Prey", "Territorial imerative", "Hex: Huntress Lullaby"],
 		"Perk Description" :[
 			"Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you unpredictable. Upon gaining the Bloodlust Status Effect, Beast of Prey Activates:  Grants the Undetectable Status Effect for as long as Bloodlust is active.  Beast of prey grants 30/40/50 % bonus Bloodpoints for actions in the Hunter Category.", 
@@ -44,98 +44,104 @@
 		"Add ons":["Yellowed Cloth", "Coarse Stone ", "Bandaged Haft", "Amanita Toxin", "Weighted Head", "Shiny Pin", "Oak Haft", "Manna Grass Braid", "Leather Loop", "Venomous Concoction", "Rusty Head", "Rose Root", "Flower Babushka", "Deerskin Gloves", "Wooden Fox", "Infantry Belt", "Glowing Concoction", "Begrimed Head", "Soldier's Puttee", "Iridescent Head"]
 	},
 	"7": {
-		"name": "The Oni",
-		"Perks": [""]
+		"Name": "The Oni",
+		"Perks": ["Zanshin Tactics", "Blood Echo", "Nemesis"],
+		"Perk Description": [],
+		"Add ons": ["Rotting Rope", "Paper Lantern", "Cracked Sakazuki", "Blackened Toenail", "Polished Maedate", "Ink Lion", "Chipped Saihai", "Child's Wooden Sword", "Bloody Sash", "Yamaoka Sashimono", "Wooden Oni Mask", "Shattered Wakizashi", "Scalped Topknot", "Kanai-Anzen Tailsman", "Tear Soaked Tenugui", "Splintered Hull", "Lion Fang", "Akito's Crutch", "Renjiro's Bloody Glove", "Iridescent Family Crest"]
 	},
 	"8": {
-		"name": "Freddy Krueger",
-		"Perks": []
+		"Name": "Freddy Krueger",
+		"Perks": ["Fire Up", "Remember Me", "Blood Warden"],
+		"Perk Description": [],
+		"Add ons" :["Wool Shirt", "Sheep Block", "Kid's Drawing", "Garden Rake", "Prootype Claws", "Outdoor Rope", "Nacy's Sketch", "Green Dress", "Cat Block", "Unicorn Block", "Paint Thinner", "Nacy's Masterpiece", "Jump Rope", "Blue Dress", "Pill Bottle", "Swing Chains", "Class Photo", "'Z' Block", "Red Paint Brush", "Black Box"]
 	},
 	"9":{
-		"name": "The Wraith",
-		"Perks": []
+		"Name": "The Wraith",
+		"Perks": ["Predator", "BloodHound", "Shadowborn"],
+		"Perk Descriptions":[],
+		"Add ons": []
 	},
 	"10":{
-		"name": "Onryō",
+		"Name": "Onryō",
 		"Perks": []
 	},
 	"11":{
-		"name": "The Plauge",
+		"Name": "The Plauge",
 		"Perks":[]
 	},
 	"12":{
-		"name": "The Twins",
+		"Name": "The Twins",
 		"Perks": []
 	},
 	"13":{
-	"name": "The Dredge",
-	"Perks":[]
+		"Name": "The Dredge",
+		"Perks":[]
 	},
 	"14": {
-	"name": "",
-	"Perks":[]
+		"Name": "DeathSlinger",
+		"Perks":[]
 	},
 	"15": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
-		},
+	},
 	"16": {
-	"name": "",
-	"Perks":[]
+		"Name": "",
+		"Perks":[]
 	},
 	"17": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 		},
 	"18": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},"19": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 		},
 	"20": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 		},
 	"21": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 		},
 	"22": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 		},
 	"23": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},
 	"24": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},
 	"25": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},
 	"26": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},
 	"27": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},
 	"28": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},
 	"29": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	},
 	"30": {
-		"name": "",
+		"Name": "",
 		"Perks":[]
 	}
 }
