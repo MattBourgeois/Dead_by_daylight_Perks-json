@@ -165,7 +165,7 @@
 	},
 	"25": {
 		"Name": "Trickster",
-		"Perks":[],
+		"Perks":["Starstruck", "HHex: Crowd Control", "No Way Out"],
 		"Perk Descriptions":[],
 		"Add ons": []
 	},
