@@ -171,7 +171,7 @@
 	},
 	"26": {
 		"Name": "The Hag",
-		"Perks":[],
+		"Perks":["Hex: The Third Seal", "Hex: Ruin", "Hex: Devour Hope"],
 		"Perk Descriptions":[],
 		"Add ons": []
 	},
@@ -187,25 +187,25 @@
 	},
 	"28": {
 		"Name": "The Spirt",
-		"Perks":[],
+		"Perks":["Spirit Fury", "hex: Haunted Ground", "Rancor"],
 		"Perk Descriptions":[],
 		"Add ons": []
 	},
 	"29": {
 		"Name": "Doctor",
-		"Perks":[],
+		"Perks":["Overwhelming Presence", "Monitor & Abuse", "Overcharge"],
 		"Perk Descriptions":[],
 		"Add ons": []
 	},
 	"30": {
 		"Name": "Demogorgon",
-		"Perks":[],
+		"Perks":["Jolt", "Fearmonger", "Claustrophobia"],
 		"Perk Descriptions":[],
 		"Add ons": []
 	},
 	"31":{
 		"Name": "Uni Perks",
-		"Perks":[],
+		"Perks":["Bitter Murmur", "Deerstalker", "Distressing", "Hex: No One Escapes Death", "Hex: Thrill of the Hunt", "Inisious", "Iron Grasp", "Scourge Hook: Monstrous Shrine", "Shattered Hope", "Sloppy Butcher", "Spies from the Shadows", "Unrelenting", "Whispers"],
 		"Perl Descriptions": [],
 		"Add ons": null
 	}
