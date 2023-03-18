@@ -107,7 +107,7 @@
 	"17": {
 		"Name": "Legion",
 		"Perks":["Discordance", "Mad Grit", "Iron Maiden"],
-		"PerkDescriptions":[],
+		"Perk Descriptions":[],
 		"Add ons": ["Smiley Face Pin", "Scratched Ruler", "Mischief List", "Friendship Bracelet", "Never-Sleep Pills", "Mural Sketch", "Julie's Mix Tape", "Etched Ruler", "Defaced Smiley Pin", "The Legion Pin", "Susie's Mix Tape", "Stolen Sketch Book", "Stylish Sunglasses", "Stab Wounds Study", "Frank's Mix Tape", "Filthy Blade", "BFFs", "Iridescent Button", "Fuming Mix Tape"]
 		},
 	"18": {
@@ -129,7 +129,7 @@
 		"Name": "Hillbilly",
 		"Perks":["Enduring", "Lightborn", "Tiinkerer"],
 		"Perk Descriptions":["Reduces Pallet stun duration by 40/45/50 %", 
-		"The of SurvivorsIconHelpLoading survivor.png attempting to blind you with a Flashlight are revealed to you for 6/8/10 seconds.",
+		"The of Survivors attempting to blind you with a Flashlight are revealed to you for 6/8/10 seconds.",
 		"Whenever a is repaired to 70 %, you benefit from the following effects: Triggers a Loud Noise Notification for that Generator, revealing its location. Grants the Status Effect for the next 12/14/16 seconds."
 	],
 		"Add ons": ["Steel Toe Boots", "Junkyard Air Filter", "Heavy Clutch", "Speed Limiter", "Dad's Boots", "Punctured Muffler", "Off-Brand Motor Oil", "Death Engravings", "Big Buckle", "Mother's Helpers", "Low Kickback Chains", "Leafy Mash", "Doom Engravings", "Black Grease", "Tuned Carburettor", "Spiked Boots", "Pighouse Gloves", "LoPro Chains", "Apex Muffler", "Iridescent Brick"]
@@ -160,14 +160,14 @@
 		"Perk Descriptions":[
 			"Each time you hook a Survivor for the first time you gain a Token; Once you have Recived 4 Tokens you Entity block all Generators for 30/35/40 Seconds, and the Aura of the Obsession is revealed to you for 5 seconds",
 			"Placing a Survivor on a Scourge Hook, The Gen with most progression exploeds losing 9/12/15 % of its progression and starts to regress, Survivors will Scream",
-			" For each Rekindled Totem active at the same time, Hex: Pentimento gains an additional effect: 1 Totem: Decreases all Survivors' Repair speed by 20/25/30 %, 2 Totems: Decreases all Survivors' Healing speed by 20/25/30 %, 3 Totems: Decreases all Survivors' Recovery speed from being downed by 20/25/30 %, 4 Totems: Decreases all Survivors' Exit Gate Opening speed by 20/25/30 %, 5 Totems: All Totems are permanently blocked by The EntityIconHelp entity.png."
+			" For each Rekindled Totem active at the same time, Hex: Pentimento gains an additional effect: 1 Totem: Decreases all Survivors' Repair speed by 20/25/30 %, 2 Totems: Decreases all Survivors' Healing speed by 20/25/30 %, 3 Totems: Decreases all Survivors' Recovery speed from being downed by 20/25/30 %, 4 Totems: Decreases all Survivors' Exit Gate Opening speed by 20/25/30 %, 5 Totems: All Totems are permanently blocked by The Entity"
 	],
 		"Add ons": ["Vibrant Obituary", "Thick Tar", "Oil Paints", "Choclo Corn", "Velve Fabric", "Untitled Agony", "Still Life Crow", "Festering Carrion", "Automatic Drawing", "Throny Nest", "Silver Bell", "O Grief, O Lover", "Darkest Ink", "Charcoal Stick", "Severed Tongue", "Severed Hands", "Matias' Baby Shoes", "Ink Egg", "Iridescent Feather", "Garden of Rot"]
 	},
 	"25": {
 		"Name": "Trickster",
 		"Perks":["Starstruck", "HHex: Crowd Control", "No Way Out"],
-		"Perk Descriptions":["When carrying a Survivor, Starstruck activates: Survivors suffer from the Status Effect while in your Terror The Status Effect lingers for 26/28/30 seconds after leaving your Terror Radius. After hooking or dropping the carried Survivor, Starstruck deactivates: The Status Effect persists for 26/28/30 seconds for any Survivor inside your Terror Radius at that moment.", "Survivors who perform a rushed vault through a Window prompt The Entity to block it for the next 14/17/20 seconds.", "Once the Exit Gates have been powered, No Way Out activates: When a Survivor interacts with an Exit Gate Switch, you receive a Loud Noise Notification and The EntityIconHelp entity.png blocks both Exit Gate Switches for 12 seconds and an additional 6/9/12 seconds per Token in your possession, up to a combined maximum of 36/48/60 seconds."],
+		"Perk Descriptions":["When carrying a Survivor, Starstruck activates: Survivors suffer from the Status Effect while in your Terror The Status Effect lingers for 26/28/30 seconds after leaving your Terror Radius. After hooking or dropping the carried Survivor, Starstruck deactivates: The Status Effect persists for 26/28/30 seconds for any Survivor inside your Terror Radius at that moment.", "Survivors who perform a rushed vault through a Window prompt The Entity to block it for the next 14/17/20 seconds.", "Once the Exit Gates have been powered, No Way Out activates: When a Survivor interacts with an Exit Gate Switch, you receive a Loud Noise Notification and The Entity blocks both Exit Gate Switches for 12 seconds and an additional 6/9/12 seconds per Token in your possession, up to a combined maximum of 36/48/60 seconds."],
 		"Add ons": ["Trick Pouch", "Memento Blades", "Killing Part Chords", "Inferno Wires", "Tequila Moonrock", "On Target Single"," Lucky Blade", "Ji-Woon's Autograph", "Caged Heart Shoes", "Melodious Murder", "Waiting For You Watch", "Ripper Brace", "Fizz-Spin Soda", "Bloody Boa", "Trick Blades", "Edge of Revival Album", "Diamond Cufflinks", "Cut Thru U Single", "Iridescent Photocard", "Death Throes Compilation"]
 	},
 	"26": {
@@ -179,10 +179,7 @@
 	"27": {
 		"Name": "The Knight",
 		"Perks":["Nowhere to Hide", "Hex: Face the Darkness", "Hubris"],
-		"Perk Descriptions":[
-			"Damaging a Generator Reveals the Auras of all Survivors withing 24 Meters of your position for 3/4/5 seconds.",
-			"Once you injure a survivor if there is a dull totem on the map, Face the Darkness activates;All other Survivors will scream every 35/30/20 secondsif they are outside Terror Radius reveling their Auras for 2 seconds each time.",
-			"Whenever you are stunned by a Survivor that survivor becomes Exposed for 10/15/20 seconds"
+		"Perk Descriptions":["Damaging a Generator Reveals the Auras of all Survivors withing 24 Meters of your position for 3/4/5 seconds.","Once you injure a survivor if there is a dull totem on the map, Face the Darkness activates;All other Survivors will scream every 35/30/20 secondsif they are outside Terror Radius reveling their Auras for 2 seconds each time.","Whenever you are stunned by a Survivor that survivor becomes Exposed for 10/15/20 seconds"
 		],
 		"Add ons": ["Tattered Tabard", "Pillaged Mead", "Map of the Realm", "Gritty Lump", "Treated Blade", "Dried Horsemeat", "Cold Steel Manacles", "Call To Arms", "Battle Axe Head", "Town Watch's Torch", "Ironworker's Tongs", "Grim Iron Mask", "Chain Mail Fragment", "Broken Hilt", "Lightweight Greaves", "Healing Poultice", "Flint and Steel", "Blacksmith's Hammer", "Knight's Contract", "Iridescent Company Banner" ]
 	},
@@ -190,13 +187,13 @@
 		"Name": "The Spirt",
 		"Perks":["Spirit Fury", "hex: Haunted Ground", "Rancor"],
 		"Perk Descriptions":["After breaking 4/3/2 Pallets, Spirit Fury activates: The next time you are stunned by a Pallet, The Entity instantly breaks it. The normal Stun penalty still applies.", "When either Hex Totem is cleansed or blessed, all Survivors suffer from the Exposed Status Effect for 40/50/60 seconds. The second Hex Totem will immediately turn into a Dull Totem.", "Each time a Generator is completed, the following effects apply: Reveals your Aura to the Obsession for 5/4/3 seconds. All Survivors' locations are revealed to you for 3 seconds. Once the Exit Gates are powered, the following effects apply:You are granted the ability to kill the Obsession by your own hand. The Obsession suffers from a permanent Exposed Status Effect"],
-		"Add ons": ["Zōri", "Shiawase Amulet", "Origami Crane", "White Hair Comb", " Kavanagh's Last Breath"]
+		"Add ons": ["Zōri", "Shiawase Amulet", "Origami Crane", "White Hair Comb", "Rin's Broken Watch", "Muddy Sports Day Cap", "Kaiun Talisman", "Juniper Bonsai", "Rusty Flute", "Senko Hanabi", "Katana Tsuba", "Uchiwa", "Mother's Glasses", "Yakuyoke Amulet", "Wakizashi Saya", "Furin", "Dried Cherry Blossom", "Mother-Daughter Ring", "Kintsugi Teacup"]
 	},
 	"29": {
 		"Name": "Doctor",
 		"Perks":["Overwhelming Presence", "Monitor & Abuse", "Overcharge"],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perk Descriptions":["Survivors within your Terror Radius suffer from inefficiency: When using an Item its Depletion rate is increased by 80/90/100 %.", "our base Terror Radius is increased by 8 metres. Whenever you are outside of a Chase, your Terror Radius is reduced by 16 metres while your Field of View is increased by 3/5/10 ° ", "The next Survivor interacting with that Generator is faced with a difficult Skill Check Failing the Skill Check results in an immediate Progression loss of 3/4/5 %. Succeeding the Skill Check grants no bonus Progression, but prevents the Generator from exploding. After Overcharge is applied to a Generator, the following effect applies: Increases the Regression speed from 75 % to 200 % over the next 30 seconds."],
+		"Add ons": ["Mouldy Electrode", "Maple Knight", "'Order' - Class I", "'Claim - Class I", "Polished Electrode", "'Restraint' - Class II", "'Order' - Class II", "'Discipline' - Class II", "'Calm' - Class II", "Scarpped Tape", "Interview Tape", "High Stimulus Electrode", "'Restraint' - Class III", "'Discipline' - Class III", "'Restraint' - Carter's Note", "'Order' - Carter's Notes", "'Discipline' - Carter' Notes", "'Calm' - Carter's Notes", "Iridescent Queen", "Iridescent King"]
 	},
 	"30": {
 		"Name": "Demogorgon",
@@ -207,7 +204,8 @@
 	"31":{
 		"Name": "Uni Perks",
 		"Perks":["Bitter Murmur", "Deerstalker", "Distressing", "Hex: No One Escapes Death", "Hex: Thrill of the Hunt", "Inisious", "Iron Grasp", "Scourge Hook: Monstrous Shrine", "Shattered Hope", "Sloppy Butcher", "Spies from the Shadows", "Unrelenting", "Whispers"],
-		"Perl Descriptions": [],
+		"Perk Descriptions": ["Each time a Generator is completed, the Auras of all Survivors within 16 metres of that Generator are revealed to you for 5 seconds. Once the last Generator is completed, the Auras of all Survivors are revealed to you for 5/7/10 seconds.", "The Auras of all Survivors in the Dying State within 20/28/36 metres of your location are revealed to you.", "Increases your Terror Radius by 22/24/26 % Grants 100 % bonus Bloodpoints for all actions in the Deviousness Category.", "Once the Exit Gates are powered, if there is still a Dull Totem remaining on the Map, Hex: No One Escapes Death activates and lights it: Increases your Movement speed by 2/3/4 %. Survivors suffer from a permanent Exposed Status Effect. Hex: No One Escapes Death remains inactive if no Dull Totems are available. Once the Status Effect is revealed to Survivors, Hex: No One Escapes Death reveals the Aura of its Hex Totem to all Survivors within 4 metres and gradually expands that range to 24 metres over the course of 30 seconds.", "The false hope of Survivors fills you with excitement and strengthens your Totems.For each Totem remaining in the environment, Hex: Thrill of the Hunt gains 1 Token.Survivors suffer from a stack-able 8/9/10 % Action Speed penalty per Token to Cleansing and Blessing, up to a maximum of 40/45/50 %.Grants a stack-able 10 % bonus Bloodpoints for actions in the Hunter Category per Token, up to a maximum of 50 %.", "Grants the Undetectable Status Effect after standing still for 4/3/2 seconds and until you are moving again.", "While carrying a Survivor you benefit from the following effects: Decreases Wiggle effects, which cause you to strafe sideways, by 75 % Increases Wiggle duration by 4/8/12 %.", "At the start of the Trial, 4 random Hooks, as well as the Basement Hooks, are changed into Scourge Hooks: The Auras of Scourge Hooks are revealed to you in white.Each time a Survivor is hooked on a Scourge Hook, the following effect applies whenever you are farther than 24 metres from the hooked Survivor: Accelerates the Sacrifice Process by 10/15/20 %.", "Instead of snuffing Boon TotemsAtl Hud Icon Boon you destroy them. Destroying a Boon Totem this way reveals the Auras of all Survivors that were within its range at that moment for 6/7/8 seconds.", "Wounds inflicted by Basic Attacks cause Survivors to suffer from the Haemorrhage and Mangled Status Effects: Increases the Bleeding frequency by 50/75/100 %. Increases the Regression rate at which partial Healing Progression is lost through Haemorrhage by 15/20/25 %. Both Status Effects are removed once the Survivor is fully healed.", "Crows startled by Survivors within 20/28/36 metres alert you with a Loud Noise Notification.", "Reduces the Cool-down of missed Basic Attacks by 20/25/30 %.", "You hear the sporadic whispers of the Entity whenever at least one Survivor is within 48/40/32 metres of your location."
+	],
 		"Add ons": null
 	}
 }
