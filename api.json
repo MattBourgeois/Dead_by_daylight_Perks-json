@@ -2,37 +2,38 @@
 {"0":{
 	"Name": "Pig",
 	"Perks": ["Hangman's Trick", "Surveillance", "Make Your Choice"],
-	"Perk Description" :[],
+	"Perk Description" :["Gain a Loud Noise Notification whenever a Survivor begins sabotaging a Hook. While carrying a Survivor, see the Aura of any Survivor within 2/4/6 metres of any Hook.", "The Auras of regressing Generators are highlighted in white. If the Regression progress is interrupted on a Generator, its Aura will be highlighted in yellow for 8/12/16 seconds.", "The Rescuer screams and suffers from the Exposed Status Effect for the next 40/50/60 seconds."],
 	"Add ons": ["Shattered Syringe", "John's Medical File", "Interlocking Razor", "Combat Straps", "Workshop Grease", "Utility Blades", "Razor Wires", "Last Will", "Face Mask", "Slow-Release Toxin", "Rusty Attachments", "Rules Set No.2", "Jigsaw's Annotated Plan", "Bag of Gears", "Tampered Timer", "Jigsaw's Sketch", "Crate of Gears", "Amanda's Secret", "Amanda's Letter", "Video Tape"]
 	},
 	"1":{
 	"Name": "Nurse",
 	"Perks": ["Stridor", "Thanatophobia", "A Nurse's Calling"],
-	"Perk Description" :[],
+	"Perk Description" :["Increases the volume of Survivors' Grunts of Pain by 25/50/50 %. Increases the volume of Survivors' regular breathing by 0/0/25 %.", "Each injured, dying, or hooked Survivor afflicts Survivors with a stack-able 1/1.5/2 % Action Speed penalty to Repairing, Sabotaging, and Cleansing, up to a maximum of 4/6/8 %. Increases the Action Speed penalty by a further 12 %, if there are 4 Survivors, who are either injured, dying, or hooked at the same time.", "The Auras of Survivors, who are healing or being healed, are revealed to you when they are within a range of 20/24/28 metres."],
 	"Add ons": ["Wooden Horse", "White Nut Comb", "Plaid Flannel", "Metal Spoon", "Pocket Watch", "Dull Bracelet", "Dark Cincture", "Catatonic Boy's Treasure", "Bad Man Keepsake", "Spasmodic Breath", "Heavy Painting", "Fragile Wheeze", "Ataxic Respiration", "Anxious Gasp"," Kavanagh's Last Breath", "Jenner's Last Breath", "Campbell's Last Breath", "'Bad Man's' Last Breath", "Torn Bookmark", "MatchBox"]
 },
 	"2": {
 		"Name": "Trapper",
 		"Perks": ["Unnerving Presence", "Brutal Strength", "Agitation"],
-		"Perk Description" :[],
+		"Perk Description" :["Once the Exit Gates are powered, Terminus activates: All Survivors, who are either injured, dying, or hooked, suffer from the Broken Status Effect until the Exit Gates are opened. This effect lingers for an additional 20/25/30 seconds after the Exit Gates are open.", "Increases the Action speed of breaking Pallets and Breakable Walls, and damaging Generators by 10/15/20 %", "While carrying a Survivor you benefit from the following effects: Increases your Carrying Movement speed by 6/12/18 %. Increases your Terror Radius by 12 metres."
+	],
 		"Add ons": ["Trapper Gloves", "Padded Jaws", "Makeshift Wrap", "Bear Oil", "Wax Brick", "Serrated Jaws", "Lengthened Jaws", "Coffee Grounds", "4-Coil Spring Kit", "Trapper Bag", "Tar Bottle", "Secondary Coil", "Rusted Jaws", "Fastening Tools", "Trapper Sack", "Tension Sppring", "Oily Coil", "Honing Stone", "Iridescent Stone", "Bloody Coil"]
 	},
 	"3":{
 		"Name": "Alber Wesker",
 		"Perks": ["Superior Anatomy", "Awakened Awareness", "Terminus"],
-		"Perk Description" :[],
+		"Perk Description" :["When a Survivor performs a rushed vault within 8 metres of you, Superior Anatomy activates: Increases your Vaulting speed by 30/35/40 % the next time you vault a Window.", "While carrying a Survivor, the Auras of all other Survivors are revealed to you when they are within 16/18/20 metres of your location.", "Once the Exit Gates are powered, Terminus activates: All Survivors, who are either injured, dying, or hooked, suffer from the Broken Status Effect until the Exit Gates are opened. This effect lingers for an additional 20/25/30 seconds after the Exit Gates are open."],
 		"Add ons": ["Jewel Beele", "Unicorn Medallion", "R.P.D Shoulder Walkie", "Uroboros Tendril", "Loose Crank", "Leather Gloves", "Lion Medallion", "Chalice (Gold)", "Bullhorn", "Portable Safe", "Red Herb", "Maiden Medallion", "Video Conference Device", "Egg(Gold)", "Dark Sunglasses", "Green Herb", "Helicoper Stick", "Uroboros Virus", "Lab Photo", "Iridescent Uroboros Vial"]
 	},
 	"4":{
 		"Name":"The Clown",
 		"Perks":["Bamboozle", "Coulrophobia", "Pop Goes the Weasel"],
-		"Perk Description" :[],
+		"Perk Description" :["Blocked Windows cannot be vaulted by Survivors Increases your general Vaulting speed by 5/10/15 %.", "For all Survivors within your Terror Radius, the following effects apply: Reduces their Healing speed by 30/40/50 %. Increases the Rotation speed of Healing Skill Checks by +50 %.", "After hooking a Survivor, Pop Goes the Weasel activates for the next 35/40/45 seconds: Performing the Damage Generator Action on a Generator instantly regresses it by -20 % of its current Progression, after which normal Regression applies."],
 		"Add ons": ["VHS Porn", "Robin Feather", "Party Bottle", "Fingerless Parade Gloves", "Thick Cork Stopper", "Sticker Soda Bottle", "Starling Feather", "Solvent Jug", "Kerosene Can", "Sulphuric Acid Vial", "Spirt of Hartshorn", "Smelly Inner Soles", "Flask of Bleach", "Bottle of Chloroform", "Garish Make-Up Kit", "Ether 15 Vol%", "Cigar Box", "Cheap Gin Bottle", "Tattoo's Middle Finger", "Redhead's Pinkie Finger"]
 	},
 	"5": {
 		"Name": "Bubba",
 		"Perks": ["Knock Out", "Barbecue & Chilli", "Franklin's Demise"],
-		"Perk Description" :[],
+		"Perk Description" :["Any Survivor who blinds you or stuns you using a Pallet becomes the Obsession. Anytime your Obsession switches to another Survivor by any means, that Survivor then suffers from the Oblivious Status Effect for 40/50/60 second", "After hooking a Survivor, all Survivors who are at least 60/50/40 metres away from that Hook have their Aura revealed to you for 4 seconds.", "If not recovered within 150/120/90 seconds, the lost Items will have their Charges depleted by The Entity. The Auras of lost Items are revealed to you within 32 metres and slowly fade from white to red as the timer elapses."],
 		"Add ons": ["Vegetable Oil", "Spark Plug", "Speed Limiter", "Chainsaw File", "Long Guide Bar", "Primer Bulb", "Knife Scratches", "Homemade Muffler", "Chilli", "The Grease", "The Beast's Marks", "Shop Lubricant", "Grisly Chains", "Begrimed Chains", "Rusted Chains", "Light Chassis", "Depth Gauge Rake", "Award-winning Chilli", "Iridescent Flesh", "Carburettor Tuning Guide"]
 	},
 	"6": {
@@ -47,19 +48,19 @@
 	"7": {
 		"Name": "The Oni",
 		"Perks": ["Zanshin Tactics", "Blood Echo", "Nemesis"],
-		"Perk Description": [],
+		"Perk Description": ["The Auras of Breakable Walls, Pallets, and Windows are revealed to you within 24/28/32 metres.", "When hooking a Survivor, all other Injured Survivors suffer from the Haemorrhage and Exhausted Status Effects for 45 seconds.", "Any Survivor who blinds you or stuns you using a Pallet becomes the Obsession. Anytime your Obsession switches to another Survivor by any means, that Survivor then suffers from the Oblivious Status Effect for 40/50/60 second"],
 		"Add ons": ["Rotting Rope", "Paper Lantern", "Cracked Sakazuki", "Blackened Toenail", "Polished Maedate", "Ink Lion", "Chipped Saihai", "Child's Wooden Sword", "Bloody Sash", "Yamaoka Sashimono", "Wooden Oni Mask", "Shattered Wakizashi", "Scalped Topknot", "Kanai-Anzen Tailsman", "Tear Soaked Tenugui", "Splintered Hull", "Lion Fang", "Akito's Crutch", "Renjiro's Bloody Glove", "Iridescent Family Crest"]
 	},
 	"8": {
 		"Name": "Freddy Krueger",
 		"Perks": ["Fire Up", "Remember Me", "Blood Warden"],
-		"Perk Description": [],
+		"Perk Description": ["Each time a Generator is completed, Fire Up grows in power and gains 1 Token, up to a maximum of 5 Tokens. Each Token applies a stack-able buff of 3/3.5/4 % per Token, up to a maximum of 15/17.5/20 %, to the following Action speeds: Picking up and dropping Survivors. Breaking Breakable Walls and Pallets, and damaging Generators. Vaulting Windows.", "Each time the Obsession loses a Health State, Remember Me gains 1 Token: Increases the Opening time of both Exit Gates by 4 seconds per Token, up to a maximum of 8/12/16 additional seconds. The Obsession remains unaffected by this penalty.", "The Auras of Survivors standing within the Exit-Gate area are revealed to you. Once per Trial, hooking a Survivor while Blood Warden is active calls upon The Entity to block the exits for all Survivors for 30/40/60 seconds."],
 		"Add ons" :["Wool Shirt", "Sheep Block", "Kid's Drawing", "Garden Rake", "Prootype Claws", "Outdoor Rope", "Nacy's Sketch", "Green Dress", "Cat Block", "Unicorn Block", "Paint Thinner", "Nacy's Masterpiece", "Jump Rope", "Blue Dress", "Pill Bottle", "Swing Chains", "Class Photo", "'Z' Block", "Red Paint Brush", "Black Box"]
 	},
 	"9":{
 		"Name": "The Wraith",
 		"Perks": ["Predator", "BloodHound", "Shadowborn"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["The Scratch Marks left by Survivors spawn slightly'/moderately/considerably ' closer together.", "Pools of Blood are shown in bright red and can be tracked for 2/3/4 seconds longer than normal", "Increases your Field of View by 9/12/15 °"],
 		"Add ons": ["The Serpent - Soot", "The Hound - Soot", "The Ghost - Soot", "The Beast - Soot", "Bone Clapper", "Blink - Mud", "Windstorm - Mud", "Swift Hunt - Mud", "Blind Warrior - Mud", "Windstorm - White", "Swift Hunt - White", "Shadow Dance - White", "Blink - White", "Blind Warrior - White", "Windstorm - Blood", "Swift Hunt - Blood", "Shadow Dance - Blood", "All Seeing - Blood", "Coxcombed Clapper", "AAll seeing - Spirt"]
 	},
 	"10":{
