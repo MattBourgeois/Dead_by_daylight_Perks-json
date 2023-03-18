@@ -65,25 +65,26 @@
 	"10":{
 		"Name": "Onryō",
 		"Perks": ["Scourge Hook: Floods of Rage", "Call of Brine", "Merciless Storm"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["Each time a Survivor is unhooked from a Scourge Hook, the following effects apply: The Auras of all other Survivors are revealed for 5/6/7 seconds.", "The damaged Generator regresses at 150/175/200 % of the normal Regression speed and its Aura is highlighted to you in yellow. Receive a Loud Noise Notification each time a Survivor hits a Good Skill on the affected Generator", "Whenever a Generator is repaired to 90 %, Survivors repairing it are faced with continuous Skill Checks. If they miss one or stop repairing, the Generator becomes blocked for 16/18/20 seconds"],
 		"Add ons": ["Videotape Copy", "Old Newspaper", "Mother's Mirror", "Cabin Sign", "Yoichi's Fishing Net", "Well Stone", "Sea-Soaked Cloth", "Relko's Watch", "Clump of Hair", "Well Water", "Ring Drawing", "Rickety Pinwheel", "Mother's Comb", "VCR", "Telephone", "Tape Editing Deck", "Distorted Photo", "Remote Control", "Iridescent Videotape"]
 	},
 	"11":{
 		"Name": "The Plauge",
 		"Perks":["Corrupt Intervention", "Infectious Fright", "Dark Devotion"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["Each time a Generator is completed, Coup de Grâce grows in power and gains 1 Token. Consume 1 Token to increase the distance of your next Lunge Attack by 70/75/80 %.", "Whenever a Survivor is put into the Dying State by any means, all other Survivors within your Terror Radius will scream and reveal their current location to you for 4/5/6 seconds.", "Whenever the Obsession loses a Health State by any means and thus enters the Injured State, Dark Devotion activates: Your Terror Radius transfers to the Obsession for 20/25/30 seconds, and its radius is set to 32 metres. Grants the Undetectable Status Effect for the same duration."],
 		"Add ons": ["Prayer Tablet Fragment", "Olibanum Icensse", "Limestone Seal", "Healing Salve", "Prophylatic Amulet", "Potent Tincture", "Haematite Seal", "Emetic Potion", "Blessed Apple", "Rubbing Oil", "Infected Emetic", "Incensed Ointment", "Exorcism Amulet", "Ashen Apple", "Worship Tablet", "Vile Emetic", "Severed Toe", "Devotee's Amulet", "Iridescent Seal", "Black Incense"]
 	},
 	"12":{
 		"Name": "The Twins",
 		"Perks": ["Hoarder", "Oppression", "Coup de Grâce"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["Hoarder triggers a Loud Noise Notification for 4 seconds, whenever a Survivor performs any of the following actions within 32/48/64 metres of your location: Unlocks a Chest Picks up any Item, including Limited Items.", "Performing the Damage Generator Action on a Generator activates Oppression: Causes up to 3 additional Generators to also start regressing.Triggers a difficult Skill Check on all Survivors currently repairing one of those Generators.", "Each time a Generator is completed, Coup de Grâce grows in power and gains 1 Token. Consume 1 Token to increase the distance of your next Lunge Attack by 70/75/80 %."],
 		"Add ons": ["Toy Sword", "Tiny Fingernail", "Soured Milk", "Cat Figurine", "Madeleine's Glove", "Ceremonial Candelabrum", "Cat's Eye", "Bloody Black Hood", "Baby Teeth", "Weighty Rattle", "Stale Biscuit", "Sewer Sludge", "Rusted Needle", "Madeleine's Scarf", "Victor's Soldier", "Spinning Top", "Forest Stew", "Drop of Perfume", "Silencing Cloth", "iridescent Pendant"]
 	},
 	"13":{
 		"Name": "The Dredge",
 		"Perks":["Dissolution", "Darkness Revealed", "Septic Touch"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["3 seconds after injuring a Survivor by any means, Dissolution activates for 12/16/20 seconds: While Dissolution is active, if a Survivor fast vaults over a Pallet while they are inside your Terror Radius, The Entity will break the Pallet at the end of the vault, deactivating Dissolution.", "When you search a Locker, the Auras of all Survivors within 8 metres of any Locker are revealed to you for 3/4/5 seconds.", "Whenever a Survivor performs a Healing action while they are inside your Terror Radius, that Survivor suffers from the Blindness and Exhaustedg Status Effects These effects linger for 6/8/10 seconds after the Healing action is interrupted by any means."
+	],
 		"Add ons": ["Wooden Plank", "Mortar and Pestle", "Follower's Cowl", "Caffeine Tablets", "Malthinker's Skull", "Haddie's Calendar", "Fallen Shingle", "Burnt Letters", "Air Freshener", "Worry Stone", "War Helmet", "Ottomarian Writing", "Destroyed Pillow", "Broken Doll", "Tilling Blade", "Lavalier Microphone", "Field Recorder", "Boat Key", "Sacrificial Knife", "Iridescent Wooden Plank"]
 },
 	"14": {
