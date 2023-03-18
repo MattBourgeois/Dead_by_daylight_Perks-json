@@ -89,31 +89,31 @@
 	"14": {
 		"Name": "DeathSlinger",
 		"Perks":["Gearhead", "Dead Man's Switch", "Hex: Retribuition"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["After a Survivor loses a Health State, Gearhead activates: While Gearhead is active, a Survivor succeeding a Great Skill Check while repairing reveals their Aura to you for 6/8/10 seconds, after which Gearhead deactivates.", "After hooking a Survivor, Dead Man's Switch activates for the next 20/25/30 seconds: While activated, any Survivor that stops repairing a Generator before it is fully repaired causes The Entity to block the Generator until Dead Man's Switch's effect ends.", "Survivors cleansing or blessing any Totem suffer from the Oblivious Status Effect for 35/40/45 seconds.After cleansing or blessing a Hex Totem, the Auras of all Survivors are revealed to you for 15 seconds."],
 		"Add ons": ["Spit Polish Rag", "Snake Oil", "Rickety Chain", "Modified Ammo Belt", "Rusted Spike", "Poison Oak Leaves", "Marshal's Badge", "Jaw Smasher", "Chewing Tobacco", "Warden's Keys", "Wanted Poster", "Tin Oil Can", "Honey Locust Thorn", "Bayshore's Gold Tooth", "Prison Chain", "Gold Creek Whiskey", "Bayshore's Cigar", "Barbed Wire", "Iridescent Coin", "Hellshire Iron"]
 	},
 	"15": {
 		"Name": "The Cenobite",
 		"Perks":["Deadlock", "Hex: Plaything", "Scourge Hook: Gift of Pain"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["Whenever a Generator is completed, The Entity blocks the Generator with the most progression for 20/25/30 seconds. The Aura of the blocked Generator is revealed to you in white during this time", "The hooked Survivor suffers from the Cursed and Oblivious Status Effects until Hex: Plaything is cleansed. For the first 90 seconds, only the Cursed Survivor is able to cleanse the Hex Totem. The Aura of Hex: Plaything's Hex Totem is revealed to the Cursed Survivor within 24/20/16 metres.", "Each time a Survivor is unhooked from a Scourge Hook, the following effects apply: The Survivor suffers from the Haemorrhage and Mangled Status Effects until healed.Upon being healed, the Survivor suffers from a 10/13/16 % Action Speed penalty to Healing and Repairing until they are injured again."],
 		"Add ons": ["Leather Strip", "Lively Crickets", "Burning Candle", "Bent Nail", "Wriggling Maggots", "Spoiled Meal", "Skewered Rat", "Liquified Gore", "Flickering Television", "Torture Pillar", " Kavanagh's Last Breath", "Slice of Frank", "Larry's Remains", "Larry's Blood" ,"Frank's Heart", "Original Pain", "Impailing Wire", "Greasy Black Lens", "Chatterer's Tooth", "Iridescent Lament Configuration", "Engineer's Fang"]
 	},
 	"16": {
 		"Name": "The Executioner",
 		"Perks":["Forced Penance", "Trail of Torment", "Deathbound"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["Survivors who take a Protection Hit suffer from the Broken Status Effect for the next 60/70/80 seconds.", "Grants the Undetectable Status Effect until the Generator stops regressing or a Survivor is damaged by any means. The Aura of the damaged Generator is revealed to all Survivors in yellow.", "Whenever a Survivor heals another Survivor for the equivalent of 1 Health State at least 32 metres away from you, Deathbound activates: Causes the Survivor to scream and trigger a Loud Noise Notification. For the next 60 seconds, the Survivor suffers from the Oblivious Status Effect whenever they are farther than 16/12/8 metres from the healed Survivor."],
 		"Add ons": ["Lead Ring", "Dead Butterfly", "Copper Ring", "Black Strap", "Wax Doll", "Spearhead", "Leopard-Print Fabric", "Forgotton Videotape", "Cinderella Music Box", "Vaitiel Sect Photograph", "Tablet of the Oppressor", "Misty Day, Remains of Judgement", "Mannequin Foot", "Burning Man Painting", "Scarlet Egg", "Rust-Coloured Egg", "Lost Memories Book", "Crimson Ceremony Book", "Obsidian Goblet", "Iridescent Seal of Metatron"]
 	},
 	"17": {
 		"Name": "Legion",
 		"Perks":["Discordance", "Mad Grit", "Iron Maiden"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["Any Generator within a range of 64/96/128 metres that is being repaired by 2 or more Survivors is marked by a yellow Aura When the Generator is first highlighted, Discordance triggers a Loud Noise Notification on the Generator. After the Generator is no longer within range or is being repaired by just 1 Survivor, the highlighted Aura will linger for another 4 seconds.", "Successfully hitting a Survivor will pause the carried Survivor's Wiggling Progression for 2/3/4 seconds.", "Iron Maiden increases your Locker Search speed by 30/40/50 %. Survivors who exit a Locker suffer from the following afflictions:Scream and reveal their location to you for 4 second.Suffer from the Exposed Status Effect for 30 seconds."],
 		"Add ons": ["Smiley Face Pin", "Scratched Ruler", "Mischief List", "Friendship Bracelet", "Never-Sleep Pills", "Mural Sketch", "Julie's Mix Tape", "Etched Ruler", "Defaced Smiley Pin", "The Legion Pin", "Susie's Mix Tape", "Stolen Sketch Book", "Stylish Sunglasses", "Stab Wounds Study", "Frank's Mix Tape", "Filthy Blade", "BFFs", "Iridescent Button", "Fuming Mix Tape"]
 		},
 	"18": {
 		"Name": "Blight",
 		"Perks":["Dragon's Grip", "Hex: Blood Favour", "Hex: Undying"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["Performing the Damage Generator Action on a Generator activates Dragon's Grip for the next 30 seconds: The first Survivor interacting with the damaged Generator will scream, revealing their location for 4 seconds, and suffer from the Exposed Status Effect for 60 seconds. Dragon's Grip has a cool-down of 120/100/80 seconds.", "Whenever a Survivor loses a Health State by any means and thus enters the Injured State or the Dying State, Hex: Blood Favour calls upon The Entity to block all Pallets within 24/28/32 metres of that Survivor's location from being pulled down for the next 15 seconds.", "The Auras of Survivors within 2/3/4 metres of any Dull Totem are revealed to you. When another Perk's Hex Totem is cleansed or blessed, its Hex is transferred to the Hex: Undying Totem, including any accumulated Tokens, disabling Hex: Undying instead."],
 		"Add ons": ["Placebo Tablet", "Foxglove", "Compound Seven", "Chipped Monocle", "Shredded Notes", "Plague Bile", "Canker Thorn", "Blighted Rat", "Umbra Salts", "Rose Tonic", "Compound Twenty-One", "Blighted Crow", "Adrenaline Vial", "Vigo's Journal", "Summoning Stone", "Soul Chemical", "Alchemist's Ring", "Iridescent Blight Tag", "Compound Thirty-Three"]
 	},
 	"19": {
@@ -123,7 +123,7 @@
 		" Each time you chase your and let them escape, Play with Your Food receives 1 Token, up to a maximum of 3 Tokens: Each Token applies a stack-able 3/4/5 % Status Effect, up to a maximum of 9/12/15 %. Performing Basic Attacks, or Special Attacks that can damage Survivors, consumes 1 Token. Play with Your Food has a cool-down of 10 seconds on Token-accumulation.",
 		" Each time you hook a Survivor other than your you gain 1 Token: For as long as the Obsession is alive, all other Survivors suffer from a stack-able 2/2.5/3 % penalty to Repairing, Healing, and Sabotaging speeds per Token, up to a maximum of 22/27.5/33 % or 11 Tokens. The Obsession is unaffected by this penalty and instead granted a permanent 33 % Action Speed bonus to Unhooking and Healing other Survivors."
 	],
-		"Add ons": []
+		"Add ons": ["Tacky Earrings", "Memorial Flower", "Boyfriend's Memo", "Blond Hair", "Reflective Fragment", "Jewellery", "Hair Brush", "Glass Fragment", "Dead Rabbit", "Mirror Shard", "Judith's Journal", "Jewellery Box", "J. Myers Memorial", "Hair Bow", "Vanity Mirror", "Tombstone Piece", "Scratched Mirror", "Lock of Hair", "Jdith's Tombstone", "Fragrant Tuft of Hair"]
 		},
 	"20": {
 		"Name": "Hillbilly",
@@ -151,7 +151,7 @@
 	"23": {
 		"Name": "The Skull Merchant",
 		"Perks":["THWACK!", "Leverage", "Game Afoot"],
-		"Perk Descriptions":[],
+		"Perk Descriptions":["The next time you break a Breakable Wall or a Pallet all Survivors within 28/30/32 metres of your location will scream and reveal their Aura for 4 seconds.", "Each time you hook a Survivor, Leverage activates and gains 1 Token, up to a maximum of 10 Tokens: For each Token, the Altruistic and Personal Healing speeds of Survivors are reduced by a stack-able 3/4/5 % for the next 30 seconds, up to a maximum of 30/40/50 %.", "Whenever you hit the Survivor with the highest cumulative Chase time, with a Basic Attack, they become the Obsession. While you are chasing your Obsession Game Afoot activates its secondary effect: Grants a 5 % Haste Status Effect for 8/9/10 seconds after damaging a Generator or breaking a Breakable Wal or Pallet"],
 		"Add ons": ["Ultrasonic Trap Speaker", "High-Power Floodlight", "High-Current Upgrade", "Adi Valente Issue 1", "Stereo Remote Mic", "Shotgun Speakers", "Supercharge", "Low-Power Mode", "Adaptive Lighting", "Vital Targeting Processor", "Powdered Glass", "Loose Screw", "Infrared Upgrade", "Brown Noise Generator", "Randomised Strobes", "Geographical Readout", "Expired Batteries", "Advanced Movement Prediction", "Prototype Rotor", "Iridescent Unpublished Manuscript"]
 	},
 	"24": {
