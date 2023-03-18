@@ -1,4 +1,5 @@
-	{"0":{
+
+{"0":{
 	"Name": "Pig",
 	"Perks": ["Hangman's Trick", "Surveillance", "Make Your Choice"],
 	"Perk Description" :[],
@@ -106,7 +107,7 @@
 	"17": {
 		"Name": "Legion",
 		"Perks":["Discordance", "Mad Grit", "Iron Maiden"],
-		"Perk Descriptions":[],
+		"PerkDescriptions":[],
 		"Add ons": ["Smiley Face Pin", "Scratched Ruler", "Mischief List", "Friendship Bracelet", "Never-Sleep Pills", "Mural Sketch", "Julie's Mix Tape", "Etched Ruler", "Defaced Smiley Pin", "The Legion Pin", "Susie's Mix Tape", "Stolen Sketch Book", "Stylish Sunglasses", "Stab Wounds Study", "Frank's Mix Tape", "Filthy Blade", "BFFs", "Iridescent Button", "Fuming Mix Tape"]
 		},
 	"18": {
@@ -173,7 +174,7 @@
 		"Name": "The Hag",
 		"Perks":["Hex: The Third Seal", "Hex: Ruin", "Hex: Devour Hope"],
 		"Perk Descriptions":["The last 2/3/4 Survivors hit with either your Basic Attack or Special Attack suffer from the Blindness Status Effect.", "Whenever a Generator is not being repaired by a Survivor, it will immediately and automatically regress its Repair progress at 50/75/100 % of the normal Regression speed. Once any Survivor is killed by any means, Hex: Ruin deactivates and reverts its Hex Totem into a Dull Totem.", "Each time a Survivor is rescued from a Hook when you are at least 24 metres away, Hex: Devour Hope receives 1 Token:2 Tokens: 10 seconds after hooking a Survivor, gain a 3/4/5 % Haste Status Effect for the next 10 seconds. 3 Tokens: Survivors suffer permanently from the Exposed  Status Effect. 5 Tokens: You are granted the ability to kill all Survivors by your own hand." ],
-		"Add ons": ["Rope Necklet", "Powdered Eggshell", "Dead Fly Mud", "Bog Water", "Pussy Willow Catkins", "Half Eggshell", "Dragonfly Wings", "Cypress Necklet", "Bloodied Water"]
+		"Add ons": ["Rope Necklet", "Powdered Eggshell", "Dead Fly Mud", "Bog Water", "Pussy Willow Catkins", "Half Eggshell", "Dragonfly Wings", "Cypress Necklet", "Bloodied Water", "Willow Wreath", "Swamp Orchid Necklet", "Cracked Turtle Egg", "Bloodied Mud", "Scarred Hand", "Rusty Shackles", "Grandma's Heart", "Disfigured Ear", "Waterlogged Shoe", "Mint Rag"]
 	},
 	"27": {
 		"Name": "The Knight",
@@ -200,8 +201,8 @@
 	"30": {
 		"Name": "Demogorgon",
 		"Perks":["Jolt", "Fearmonger", "Claustrophobia"],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perk Descriptions":["When you put a Survivor into the Dying State with your Basic Attack, all Generators within 32 metres of you instantly explode and start regressing. Applies an immediate 8 % Progression penalty.", "Whenever a Generator is completed, all Windows and Vault locations within 32 metres of it become blocked for all Survivors for the next 20/25/30 seconds. The Auras of the blocked Vault locations are revealed to you for the duration", "Whenever a Survivor is repairing a Generator  they suffer from the Exhausted Status Effect. If the Survivor is already Exhausted, their Status Effect's timer will be paused. The Status Effect lingers for 3/4/5 seconds after the Survivor stops repairing."],
+		"Add ons": [""]
 	},
 	"31":{
 		"Name": "Uni Perks",
