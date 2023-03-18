@@ -166,14 +166,14 @@
 	"25": {
 		"Name": "Trickster",
 		"Perks":["Starstruck", "HHex: Crowd Control", "No Way Out"],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perk Descriptions":["When carrying a Survivor, Starstruck activates: Survivors suffer from the Status Effect while in your Terror The Status Effect lingers for 26/28/30 seconds after leaving your Terror Radius. After hooking or dropping the carried Survivor, Starstruck deactivates: The Status Effect persists for 26/28/30 seconds for any Survivor inside your Terror Radius at that moment.", "Survivors who perform a rushed vault through a Window prompt The Entity to block it for the next 14/17/20 seconds.", "Once the Exit Gates have been powered, No Way Out activates: When a Survivor interacts with an Exit Gate Switch, you receive a Loud Noise Notification and The EntityIconHelp entity.png blocks both Exit Gate Switches for 12 seconds and an additional 6/9/12 seconds per Token in your possession, up to a combined maximum of 36/48/60 seconds."],
+		"Add ons": ["Trick Pouch", "Memento Blades", "Killing Part Chords", "Inferno Wires", "Tequila Moonrock", "On Target Single"," Lucky Blade", "Ji-Woon's Autograph", "Caged Heart Shoes", "Melodious Murder", "Waiting For You Watch", "Ripper Brace", "Fizz-Spin Soda", "Bloody Boa", "Trick Blades", "Edge of Revival Album", "Diamond Cufflinks", "Cut Thru U Single", "Iridescent Photocard", "Death Throes Compilation"]
 	},
 	"26": {
 		"Name": "The Hag",
 		"Perks":["Hex: The Third Seal", "Hex: Ruin", "Hex: Devour Hope"],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perk Descriptions":["The last 2/3/4 Survivors hit with either your Basic Attack or Special Attack suffer from the Blindness Status Effect.", "Whenever a Generator is not being repaired by a Survivor, it will immediately and automatically regress its Repair progress at 50/75/100 % of the normal Regression speed. Once any Survivor is killed by any means, Hex: Ruin deactivates and reverts its Hex Totem into a Dull Totem.", "Each time a Survivor is rescued from a Hook when you are at least 24 metres away, Hex: Devour Hope receives 1 Token:2 Tokens: 10 seconds after hooking a Survivor, gain a 3/4/5 % Haste Status Effect for the next 10 seconds. 3 Tokens: Survivors suffer permanently from the Exposed  Status Effect. 5 Tokens: You are granted the ability to kill all Survivors by your own hand." ],
+		"Add ons": ["Rope Necklet", "Powdered Eggshell", "Dead Fly Mud", "Bog Water", "Pussy Willow Catkins", "Half Eggshell", "Dragonfly Wings", "Cypress Necklet", "Bloodied Water"]
 	},
 	"27": {
 		"Name": "The Knight",
