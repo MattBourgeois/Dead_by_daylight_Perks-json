@@ -189,8 +189,8 @@
 	"28": {
 		"Name": "The Spirt",
 		"Perks":["Spirit Fury", "hex: Haunted Ground", "Rancor"],
-		"Perk Descriptions":[],
-		"Add ons": []
+		"Perk Descriptions":["After breaking 4/3/2 Pallets, Spirit Fury activates: The next time you are stunned by a Pallet, The Entity instantly breaks it. The normal Stun penalty still applies.", "When either Hex Totem is cleansed or blessed, all Survivors suffer from the Exposed Status Effect for 40/50/60 seconds. The second Hex Totem will immediately turn into a Dull Totem.", "Each time a Generator is completed, the following effects apply: Reveals your Aura to the Obsession for 5/4/3 seconds. All Survivors' locations are revealed to you for 3 seconds. Once the Exit Gates are powered, the following effects apply:You are granted the ability to kill the Obsession by your own hand. The Obsession suffers from a permanent Exposed Status Effect"],
+		"Add ons": ["Zōri", "Shiawase Amulet", "Origami Crane", "White Hair Comb", " Kavanagh's Last Breath"]
 	},
 	"29": {
 		"Name": "Doctor",
@@ -202,7 +202,7 @@
 		"Name": "Demogorgon",
 		"Perks":["Jolt", "Fearmonger", "Claustrophobia"],
 		"Perk Descriptions":["When you put a Survivor into the Dying State with your Basic Attack, all Generators within 32 metres of you instantly explode and start regressing. Applies an immediate 8 % Progression penalty.", "Whenever a Generator is completed, all Windows and Vault locations within 32 metres of it become blocked for all Survivors for the next 20/25/30 seconds. The Auras of the blocked Vault locations are revealed to you for the duration", "Whenever a Survivor is repairing a Generator  they suffer from the Exhausted Status Effect. If the Survivor is already Exhausted, their Status Effect's timer will be paused. The Status Effect lingers for 3/4/5 seconds after the Survivor stops repairing."],
-		"Add ons": [""]
+		"Add ons": ["Rotten Pumpkin", "Black Heart", "Rat liver", "Rat Tail", "Sticky Lining", "Viscous Webbing", " Rotten Green Tape", "Mews' Guts", "Brab's Glasses", "Eleven's Soda", "Thorny Vines", "Brass Case Lighter", "Violet Waxcap", "Lifguard Whistle", "Vermillion Webcap", "Upside Down Resin", "Unkown Egg", "Leprose Lichen", "Red Moss"]
 	},
 	"31":{
 		"Name": "Uni Perks",
