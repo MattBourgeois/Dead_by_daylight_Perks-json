@@ -235,6 +235,169 @@
 			"Name": "Jake Park",
 			"Perks":["Iron Will", "Calm Spirit", "Saboteur"],
 			"Perk Description":[]
+		},
+		"5": {
+			"Name": "Nea Karlsson",
+			"Perks":["Balanced Landing", "Urban Evasion", "Streetwise"],
+			"Perk Description": []
+		},
+		"6":{
+			"Name": "Laurie Strode",
+			"Perks": ["Sole Survivor", "Object of Obsession", "Decisive Strike"],
+			"Perk Description": []
+		},
+		"7":{
+			"Name": "Ace Visconti",
+			"Perks": ["Open-Handed", "Up the Ante", "Ace in the Hole"],
+			"Perk Description": []
+		},
+		"8":{
+			"Name": "William 'Bill' Overbeck",
+			"Perks":["Left Behind", "Borrowed Time", "Unbreakable"],
+			"Perk Description": []
+		},
+		"9":{
+			"Name": "Feng Min",
+			"Perks": ["Technician", "Lithe", "Alert"],
+			"Perk Descriptions": []
+		},
+		"10":{
+			"Name": "David King",
+			"Perks": ["We're Gonna Live Forever", "Dead Hard", "No Mither"],
+			"Perk Descriptions":[]
+		},
+		"11":{
+			"Name": "Quentin Smith",
+			"Perks":["Wake Up!", "Pharmacy", "Vigil"],
+			"Perk Descriptions":[]
+		},
+		"12":{
+			"Name": "David Tapp",
+			"Perks":["Tenacity", "Detective's Hunch", "Stake Out"],
+			"Perk Descriptions":[]
+		},
+		"13":{
+			"Name": "Kate Denson",
+			"Perks":["Dance With Me", "Windows of Opportunity", "Boil Over"],
+			"Perk Descriptions":[]
+		},
+		"14":{
+			"Name": "Adam Francis",
+			"Perks":["Diversion", "Deliverance", "Autodidact"],
+			"Perk Descriptions":[]
+		},
+		"15":{
+			"Name": "Jeff Johansen",
+			"Perks":["Breakdown", "Aftercare", "Distortion"],
+			"Perk Descriptions":[]
+		},
+		"16":{
+			"Name": "Jane Romero",
+			"Perks":["Solidarity", "Poised", "Head On"],
+			"Perk Descriptions": []
+		},
+		"17":{
+			"Name": "Ashley J Williams",
+			"Perks": ["Flip-Flop", "Buckle Up", "Mettle of Man"],
+			"Perk Descriptions": []
+		},
+		"18":{
+			"Name": "Nacy Wheeler",
+			"Perks": ["Situational Awareness", "Self-Aware", "Inner Healing"],
+			"Perk Descriptions":[]
+		},
+		"19":{
+			"Name": "Steve Harrington",
+			"Perks":["Guardian", "Kinship", "Renewa;"],
+			"Perk Descriptions":[]
+		},
+		"20":{
+			"Name": "Yui Kimura",
+			"Perks": ["Lucky Break", "Any Means Necessary", "Breakout"],
+			"Perk Descriptions": []
+		},
+		"21":{
+			"Name": "Zarina Kassir",
+			"Perks":["Off the Record", "Red Herring", "For the People"],
+			"Perk Descriptions":[]
+		},
+		"22":{
+			"Name": "Cheryl Mason",
+			"Perks": ["Soul Guard", "Blood Pact", "Repressed Alliance"],
+			"Perk Descriptions":[]
+		},
+		"23":{
+			"Name": "Fleix Richter",
+			"Perks": ["Visionary", "Desperate Measures", "Built to Last"],
+			"Perk Descriptions":[]
+		},
+		"24":{
+			"Name": "Elodie Rakoto",
+			"Perks":["Appraisal", "Deception", "Power Struggle"],
+			"Perk Descriptions": []
+		},
+		"25":{
+			"Name": "Yun-Jin Lee",
+			"Perks": ["Fast Track", "Smash Hit", "Self-Preservation"],
+			"Perk Descriptions":[]
+		},
+		"26":{
+			"Name": "Jill Valentine",
+			"Perks":["Counterforce", "Resurgence", "Blast Mine"],
+			"Perk Descriptions":[]
+		},
+		"27": {
+			"Name": "Leon Scott Kennedy",
+			"Perks":["Bite the Bullet", "Flashbang", "Rookie Spirit"],
+			"Perk Descriptions": []
+		},
+		"28":{
+			"Name": "Mikaela Reid",
+			"Perks": ["Clairvoyance", "Boon: Circle of Healing", "Boon: Shadow Step"],
+			"Perk Descriptions":[]
+		},
+		"29":{
+			"Name": "Jonah Vasquez",
+			"Perks":["Overcome", "Corrective Action", "Boon: Exponential"],
+			"Perk Descriptions":[]
+		},
+		"30":{
+			"Name": "Yoichi Asakawa",
+			"Perks":["Parental Guuidance", "Empathic Connection", "Boon: Dark Theory"],
+			"Perk Descriptions":[]
+		},
+		"31":{
+			"Name": "Haddie Kaur",
+			"Perks":["Inner Focus", "Residual Manifest", "Overzealous"],
+			"Perk Descriptions":[]
+		},
+		"32":{
+			"Name": "Ada Wong",
+			"Perks": ["Wiretap", "Reactive Healing", "Low Profile"],
+			"Perk Descriptions":[]
+		},
+		"33":{
+			"Name": "Rebecca Chambers",
+			"Perks":["Better than New", "Reassurance", "Hyperfocus"],
+			"Perk Descriptions":[]
+		},
+		"34":{
+			"Name": "Vittorio Toscano",
+			"Perks":["Potential Energy", "Fogwise", "Quick Gambit"],
+			"Perk Descriptions": []
+		},
+		"35":{
+			"Name": "Thalita Lyra",
+			"Perks": ["Friendly Competition", "Teamwork: Power of Two", "Cut Loose"],
+			"Perk Description":[]
+		},
+		"36":{
+			"Name": "Renato Lyra",
+			"Perks":["Blood Rush", "Teamwork: Collective Stealth", "Baclground Player"]
+		},
+		"37":{
+			"Name": "Uni",
+			"Perks": ["Dark Sense", "Déjà Vu", "Hope", "Kindred", "Lightweight", "No One Left Behind", "Plinderer's Instinct", "Premonition","Resilience", "Slippery Meat", "Small Game", "Spine Chill", "This is Not Happening", "We'll Make it", ""]
 		}
-	}
-}}
+
+}}}
