@@ -2,7 +2,7 @@ import json
 import random
 # Keys: Number ,Name, Perks, Perk Description, Add ons
 
-with open("Survivor.json", "r") as d:
+with open("data.json", "r") as d:
 	data = json.load(d)
 
 print(data["Players"]["Killers"]['5']["Perks"])
