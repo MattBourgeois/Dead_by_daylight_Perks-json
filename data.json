@@ -226,176 +226,176 @@
 			"Perks":["Quick & Quiet", "Sprint Burst", "Adrenaline"],
 			"Perk_Description": ["Suppresses both the Loud Noise Notification and the sound effects triggered by rushing to vault Windows, Pallets, or rushing to enter or exit Lockers", "When starting to run, break into a sprint at 150 % of your normal Running Movement speed for 3 seconds. Sprint Burst causes the Exhausted Status Effect for 60/50/40 seconds Sprint Burst cannot be used when Exhausted.", "Once the Exit Gates are powered, instantly heal one Health State and sprint at 150 % of your normal Running Movement speed for 5 seconds. Adrenaline is on hold if you are disabled at the moment it triggers and will instead activate upon being freed. If playing against The Nightmare, Adrenaline will wake you from the Dream World upon activation."]
 		},
-		"3":{
+		"2":{
 			"Name": "Claudette Morel",
 			"Perks": ["Empathy", "Botany Knowledge", "Self-Care"],
-			"Perk_Description":["The Auras of SurvivorsIcon in the Injured State or in the Dying State within 64/96/128 metres of your location are revealed to you."]
+			"Perk_Description":["The Auras of SurvivorsIcon in the Injured State or in the Dying State within 64/96/128 metres of your location are revealed to you.", "Increases your Healing speed by 30/40/50 %. Reduces the Healing efficiency of Med-Kits by -20 %.", "Unlocks the Self-Care ability, allowing you to self-heal without needing a Med-Kit at 25/30/35 % of the normal Healing speed."]
 		},
-		"4":{
+		"3":{
 			"Name": "Jake Park",
 			"Perks":["Iron Will", "Calm Spirit", "Saboteur"],
 			"Perk_Description":[]
 		},
-		"5":{
+		"4":{
 			"Name": "Nea Karlsson",
 			"Perks":["Balanced Landing", "Urban Evasion", "Streetwise"],
 			"Perk_Description": []
 		},
-		"6":{
+		"5":{
 			"Name": "Laurie Strode",
 			"Perks": ["Sole Survivor", "Object of Obsession", "Decisive Strike"],
 			"Perk_Description": []
 		},
-		"7":{
+		"6":{
 			"Name": "Ace Visconti",
 			"Perks": ["Open-Handed", "Up the Ante", "Ace in the Hole"],
 			"Perk_Description": []
 		},
-		"8":{
+		"7":{
 			"Name": "William 'Bill' Overbeck",
 			"Perks":["Left Behind", "Borrowed Time", "Unbreakable"],
 			"Perk_Description": []
 		},
-		"9":{
+		"8":{
 			"Name": "Feng Min",
 			"Perks": ["Technician", "Lithe", "Alert"],
 			"Perk_Descriptions": []
 		},
-		"10":{
+		"9":{
 			"Name": "David King",
 			"Perks": ["We're Gonna Live Forever", "Dead Hard", "No Mither"],
 			"Perk_Descriptions":[]
 		},
-		"11":{
+		"10":{
 			"Name": "Quentin Smith",
 			"Perks":["Wake Up!", "Pharmacy", "Vigil"],
 			"Perk_Descriptions":[]
 		},
-		"12":{
+		"11":{
 			"Name": "David Tapp",
 			"Perks":["Tenacity", "Detective's Hunch", "Stake Out"],
 			"Perk_Descriptions":[]
 		},
-		"13":{
+		"12":{
 			"Name": "Kate Denson",
 			"Perks":["Dance With Me", "Windows of Opportunity", "Boil Over"],
 			"Perk_Descriptions":[]
 		},
-		"14":{
+		"13":{
 			"Name": "Adam Francis",
 			"Perks":["Diversion", "Deliverance", "Autodidact"],
 			"Perk_Descriptions":[]
 		},
-		"15":{
+		"14":{
 			"Name": "Jeff Johansen",
 			"Perks":["Breakdown", "Aftercare", "Distortion"],
 			"Perk_Descriptions":[]
 		},
-		"16":{
+		"15":{
 			"Name": "Jane Romero",
 			"Perks":["Solidarity", "Poised", "Head On"],
 			"Perk_Descriptions": []
 		},
-		"17":{
+		"16":{
 			"Name": "Ashley J Williams",
 			"Perks": ["Flip-Flop", "Buckle Up", "Mettle of Man"],
 			"Perk_Descriptions": []
 		},
-		"18":{
+		"17":{
 			"Name": "Nacy Wheeler",
 			"Perks": ["Situational Awareness", "Self-Aware", "Inner Healing"],
 			"Perk_Descriptions":[]
 		},
-		"19":{
+		"18":{
 			"Name": "Steve Harrington",
 			"Perks":["Guardian", "Kinship", "Renewa;"],
 			"Perk_Descriptions":[]
 		},
-		"20":{
+		"19":{
 			"Name": "Yui Kimura",
 			"Perks": ["Lucky Break", "Any Means Necessary", "Breakout"],
 			"Perk_Descriptions": []
 		},
-		"21":{
+		"20":{
 			"Name": "Zarina Kassir",
 			"Perks":["Off the Record", "Red Herring", "For the People"],
 			"Perk_Descriptions":[]
 		},
-		"22":{
+		"21":{
 			"Name": "Cheryl Mason",
 			"Perks": ["Soul Guard", "Blood Pact", "Repressed Alliance"],
 			"Perk_Descriptions":[]
 		},
-		"23":{
+		"22":{
 			"Name": "Fleix Richter",
 			"Perks": ["Visionary", "Desperate Measures", "Built to Last"],
 			"Perk_Descriptions":[]
 		},
-		"24":{
+		"23":{
 			"Name": "Elodie Rakoto",
 			"Perks":["Appraisal", "Deception", "Power Struggle"],
 			"Perk_Descriptions": []
 		},
-		"25":{
+		"24":{
 			"Name": "Yun-Jin Lee",
 			"Perks": ["Fast Track", "Smash Hit", "Self-Preservation"],
 			"Perk_Descriptions":[]
 		},
-		"26":{
+		"25":{
 			"Name": "Jill Valentine",
 			"Perks":["Counterforce", "Resurgence", "Blast Mine"],
 			"Perk_Descriptions":[]
 		},
-		"27":{
+		"26":{
 			"Name": "Leon Scott Kennedy",
 			"Perks":["Bite the Bullet", "Flashbang", "Rookie Spirit"],
 			"Perk_Descriptions": []
 		},
-		"28":{
+		"27":{
 			"Name": "Mikaela Reid",
 			"Perks": ["Clairvoyance", "Boon: Circle of Healing", "Boon: Shadow Step"],
 			"Perk_Descriptions":[]
 		},
-		"29":{
+		"28":{
 			"Name": "Jonah Vasquez",
 			"Perks":["Overcome", "Corrective Action", "Boon: Exponential"],
 			"Perk_Descriptions":[]
 		},
-		"30":{
+		"29":{
 			"Name": "Yoichi Asakawa",
 			"Perks":["Parental Guuidance", "Empathic Connection", "Boon: Dark Theory"],
 			"Perk_Descriptions":[]
 		},
-		"31":{
+		"30":{
 			"Name": "Haddie Kaur",
 			"Perks":["Inner Focus", "Residual Manifest", "Overzealous"],
 			"Perk_Descriptions":[]
 		},
-		"32":{
+		"31":{
 			"Name": "Ada Wong",
 			"Perks": ["Wiretap", "Reactive Healing", "Low Profile"],
 			"Perk_Descriptions":[]
 		},
-		"33":{
+		"32":{
 			"Name": "Rebecca Chambers",
 			"Perks":["Better than New", "Reassurance", "Hyperfocus"],
 			"Perk_Descriptions":[]
 		},
-		"34":{
+		"33":{
 			"Name": "Vittorio Toscano",
 			"Perks":["Potential Energy", "Fogwise", "Quick Gambit"],
 			"Perk_Descriptions": []
 		},
-		"35":{
+		"34":{
 			"Name": "Thalita Lyra",
 			"Perks": ["Friendly Competition", "Teamwork: Power of Two", "Cut Loose"],
 			"Perk_Description":[]
 		},
-		"36":{
+		"35":{
 			"Name": "Renato Lyra",
 			"Perks":["Blood Rush", "Teamwork: Collective Stealth", "Baclground Player"]
 		},
-		"37":{
+		"36":{
 			"Name": "Uni",
 			"Perks": ["Dark Sense", "Déjà Vu", "Hope", "Kindred", "Lightweight", "No One Left Behind", "Plinderer's Instinct", "Premonition","Resilience", "Slippery Meat", "Small Game", "Spine Chill", "This is Not Happening", "We'll Make it", ""]
 		}
