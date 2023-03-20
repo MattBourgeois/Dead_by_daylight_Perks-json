@@ -234,12 +234,12 @@
 		"3":{
 			"Name": "Jake Park",
 			"Perks":["Iron Will", "Calm Spirit", "Saboteur"],
-			"Perk_Description":[]
+			"Perk_Description":["Reduces the volume of Grunts of Pain while in the Injured State by 25/50/75 %.", "Prevents Crows from being alerted by your proximity and flying off, unless they are being stepped on. Suppresses the urge to scream from any cause at all times. Suppresses all noises related to unlocking Chests, and cleansing or blessing Totems. Reduces their Interaction speed by 40/35/30 %", "For the duration of the Killer carrying another Survivor, you see the Aura of every Hook within 56 metres of the pick-up location: The Auras of regular Hooks are revealed to you in white. The Auras of Scourge Hooks are revealed to you in yellow. Unlocks the ability to sabotage Hooks without needing a Toolbox: Sabotaging a Hook without a Toolbox takes 2.5 seconds. The Sabotage action has a cool-down of 90/75/60 seconds."]
 		},
 		"4":{
 			"Name": "Nea Karlsson",
 			"Perks":["Balanced Landing", "Urban Evasion", "Streetwise"],
-			"Perk_Description": []
+			"Perk_Description": ["Reduces the Stagger duration by 75 %. Suppresses Grunts of Exertion from falling. Upon landing, break into a sprint at 150 % of your normal Running Movement speed for 3 seconds.", "Increases your Crouching Movement speed by 90/95/100 %.", "Increases the Efficiency of your Items by 15/20/25 %." ]
 		},
 		"5":{
 			"Name": "Laurie Strode",
