@@ -219,17 +219,17 @@
 		"0":{
 			"Name": "Dwight Fairfield",
 			"Perks": ["Bond", "Prove Thyself", "Leader"],
-			"Perk_Description": []
+			"Perk_Description": ["The Auras of all other Survivors within 20/28/36 metres of your location are revealed to you.", "Increases your Repair speed by +15 % for each other Survivor within 4 metres of your location, up to a maximum of +45 %. This effect is also applied to all other Survivors within that range. Grants 50/75/100 % bonus Bloodpoints for Co-operative actions.", "Increases the Action speeds of other Survivors in Healing, Sabotaging, Unhooking, Cleansing, Opening, and Unlocking by 15/20/25 % while they are within 8 metres of your location. This effect lingers for 15 seconds when leaving Leader's range."]
 		},
 		"1":{
 			"Name": "Meg Thomas",
 			"Perks":["Quick & Quiet", "Sprint Burst", "Adrenaline"],
-			"Perk_Description": []
+			"Perk_Description": ["Suppresses both the Loud Noise Notification and the sound effects triggered by rushing to vault Windows, Pallets, or rushing to enter or exit Lockers", "When starting to run, break into a sprint at 150 % of your normal Running Movement speed for 3 seconds. Sprint Burst causes the Exhausted Status Effect for 60/50/40 seconds Sprint Burst cannot be used when Exhausted.", "Once the Exit Gates are powered, instantly heal one Health State and sprint at 150 % of your normal Running Movement speed for 5 seconds. Adrenaline is on hold if you are disabled at the moment it triggers and will instead activate upon being freed. If playing against The Nightmare, Adrenaline will wake you from the Dream World upon activation."]
 		},
 		"3":{
 			"Name": "Claudette Morel",
 			"Perks": ["Empathy", "Botany Knowledge", "Self-Care"],
-			"Perk_Description":[]
+			"Perk_Description":["The Auras of SurvivorsIcon in the Injured State or in the Dying State within 64/96/128 metres of your location are revealed to you."]
 		},
 		"4":{
 			"Name": "Jake Park",
