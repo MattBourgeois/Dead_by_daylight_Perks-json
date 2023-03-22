@@ -14,7 +14,7 @@ class Killer:
 		self.Add_ons = Add_ons
 
 	def GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons):
-		return data["Player"]["Killer"]["Perks"]
+		return data["Player"]["Killer"]["Perks"][0]
 
 	def create(self):
 		
@@ -26,3 +26,4 @@ class Killer:
 # Killer.GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons)
 
 print(Killer_Perk)
+print(Killer.GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons))
