@@ -244,17 +244,17 @@
 		"5":{
 			"Name": "Laurie Strode",
 			"Perks": ["Sole Survivor", "Object of Obsession", "Decisive Strike"],
-			"Perk_Description": []
+			"Perk_Description": ["Each time a Survivor other than yourself is killed or sacrificed, Sole Survivor gains 1 Token, up to a maximum of 3 Tokens: Each Token grants a stack-able radius of 20/22/24 metres within which the Killer is unable to read your Aura, up to a maximum of 60/66/72 metres. Once you are the last Survivor standing, you benefit from the following effects: Increases your Repair speed of Generators by +75 %. ncreases your Opening speed of the Exit Gates and the Hatch by +50 %.","Whenever the Killer reads your Aura and for the same duration as they do so, Object of Obsession activates: The Killer's Aura is revealed to you. Increases your Action speeds in Repairing, Healing, and Cleansing by 2/4/6 %. If you are the Obsession, your Aura is automatically revealed to the Killer for 3 seconds every 30 seconds. Increases the odds of becoming the Killer's initial Obsession by +100 %.", "After being unhooked or unhooking yourself, Decisive Strike activates for the next 40/50/60 seconds: When being grabbed or picked up by the Killer, succeed a Skill Check to automatically escape their grasp, stunning them for 3 seconds. Successfuly stunning the Killer will disable Decisive Strike for the remainder of the Trial and result in you becoming the Obsession."]
 		},
 		"6":{
 			"Name": "Ace Visconti",
 			"Perks": ["Open-Handed", "Up the Ante", "Ace in the Hole"],
-			"Perk_Description": []
+			"Perk_Description": ["Extends the radius of all Survivor-based Aura-reading abilities by 8/12/16 metres.", "For Each Survivor still in the Trial, Up the Ante gains 1 Token. Each Token applies a stack-able 1/2/3 % bonus to the Luck of all Survivors, up to a maximum of 3/6/9 %", "When retrieving an Item from a Chest , there is a chance an Add-on will be attached to it. 100 % chance for an Add-on of Very Rare Rarity or lower. 10/25/50 % chance for a second Add-on of Uncommon Rarity or lower."]
 		},
 		"7":{
 			"Name": "William 'Bill' Overbeck",
 			"Perks":["Left Behind", "Borrowed Time", "Unbreakable"],
-			"Perk_Description": []
+			"Perk_Description": ["When you are the last Survivor remaining in the Trial, the Aura of the Hatch is revealed to you when you are within 24/28/32 metres.", "Survivors you unhook benefit from the following effects: Extends the duration of their Endurance Status Effect by 6/8/10 seconds. Extends the duration of their Haste Status Effect by 10 seconds.", "Your Recovery speed is increased by 25/30/35 %."]
 		},
 		"8":{
 			"Name": "Feng Min",
