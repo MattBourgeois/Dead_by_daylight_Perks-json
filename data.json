@@ -259,17 +259,18 @@
 		"8":{
 			"Name": "Feng Min",
 			"Perks": ["Technician", "Lithe", "Alert"],
-			"Perk_Descriptions": []
+			"Perk_Descriptions": ["Failing a Skill Check while repairing: Prevents the Generator Explosion. Applies the default Regression penalty. Applies an additional Regression penalty of 5/4/3 %. Technician reduces the audible range of your Generator-repairing noises by 8 metres.", "After performing a rushed vault, break into a sprint of 150 % of your normal Running Movement speed for a maximum of 3 seconds. Lithe causes the Exhausted Status Effect for 60/50/40 seconds.", "Whenever the Killer destroys a Pallet or a Breakable Wall, or damages a Generator, their Aura is revealed to you for 3/4/5 seconds."]
 		},
 		"9":{
 			"Name": "David King",
 			"Perks": ["We're Gonna Live Forever", "Dead Hard", "No Mither"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Increases your Healing speed by 100 % when healing a dying Survivor. When performing any of the following actions, We're Gonna Live Forever gains 1 Token: Performing a Safe Hook Rescue Taking a Protection Hit for an injured Survivor. Stunning or Blinding the Killer to rescue a carried Survivor Consume 1 Token to grant the Endurance Status Effect for 6/8/10 seconds to any Survivor healed from the Dying State", "Press the Active Ability button while running to trigger the Endurance Status Effect for 0.5 seconds Dead Hard causes the Exhausted Status Effect for 60/50/40 seconds.", "You suffer from the Broken Status Effect for the entire Trial, but benefit from the following effects: Pools of Blood  are suppressed. When injured or dying, Grunts of Pain are reduced by 25/50/75 %. Your Recovery speed is increased by 15/20/25 %. You can recover fully from the Dying State" 
+		]
 		},
 		"10":{
 			"Name": "Quentin Smith",
 			"Perks":["Wake Up!", "Pharmacy", "Vigil"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Once all Generators are completed, Wake Up! activates: The Auras of the Exit Gate Switches are revealed to you within 128 metres. When opening an Exit Gate, your Aura is revealed to all other Survivors within 128 metres. You open Exit Gates 15/20/25 % faster.", "Increases the Unlocking speed of Chests by 40/60/80 %. Reduces the Hearing range of noises related to Unlocking by -8 metres. Guarantees an Emergency Med-Kit when unlocking a Chest.", "Increases your Recovery rate from the Blindness, Broken, Exhaustion, Exposed, Haemorrhage, Hindered, and Oblivious Status Effects by 20/25/30 %. This effect also applies to all other SurvivorsIconHelpLoading survivor.png within 8 metres of your location and lingers for 15 seconds."]
 		},
 		"11":{
 			"Name": "David Tapp",
