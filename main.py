@@ -12,6 +12,8 @@ print(data["Players"]["Killers"]["5"]["Perk_Description"][0]) #Gets the perk Des
 
 print(data["Players"]["Killers"]["0"]["Name"])
 print(data["Players"]["Survivors"]["0"]["Name"])
+for x in range(0, len(data), 1):
+	print(data["Players"]["Killers"])
 
 
 
