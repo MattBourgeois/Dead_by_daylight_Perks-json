@@ -270,22 +270,22 @@
 		"10":{
 			"Name": "Quentin Smith",
 			"Perks":["Wake Up!", "Pharmacy", "Vigil"],
-			"Perk_Descriptions":["Once all Generators are completed, Wake Up! activates: The Auras of the Exit Gate Switches are revealed to you within 128 metres. When opening an Exit Gate, your Aura is revealed to all other Survivors within 128 metres. You open Exit Gates 15/20/25 % faster.", "Increases the Unlocking speed of Chests by 40/60/80 %. Reduces the Hearing range of noises related to Unlocking by -8 metres. Guarantees an Emergency Med-Kit when unlocking a Chest.", "Increases your Recovery rate from the Blindness, Broken, Exhaustion, Exposed, Haemorrhage, Hindered, and Oblivious Status Effects by 20/25/30 %. This effect also applies to all other SurvivorsIconHelpLoading survivor.png within 8 metres of your location and lingers for 15 seconds."]
+			"Perk_Descriptions":["Once all Generators are completed, Wake Up! activates: The Auras of the Exit Gate Switches are revealed to you within 128 metres. When opening an Exit Gate, your Aura is revealed to all other Survivors within 128 metres. You open Exit Gates 15/20/25 % faster.", "Increases the Unlocking speed of Chests by 40/60/80 %. Reduces the Hearing range of noises related to Unlocking by -8 metres. Guarantees an Emergency Med-Kit when unlocking a Chest.", "Increases your Recovery rate from the Blindness, Broken, Exhaustion, Exposed, Haemorrhage, Hindered, and Oblivious Status Effects by 20/25/30 %. This effect also applies to all other Survivors within 8 metres of your location and lingers for 15 seconds."]
 		},
 		"11":{
 			"Name": "David Tapp",
 			"Perks":["Tenacity", "Detective's Hunch", "Stake Out"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Increases your Crawling speed by 30/40/50 %. Grants the ability to crawl and recover at the same time. Reduces the volume of Grunts of Pain while in the Dying State by -75 %.", "Each time a Generator is completed, the Auras of any Generators, Chests, and Totems within 32/48/64 metres are revealed to you for 10 seconds. If you are holding a Map, any objects revealed by Detective's Hunch will automatically be tracked by it.",  "Every 15 seconds you are within the Killer's Terror Radius, while not being chased, Stake Out gains 1 Token, up to a maximum of 2/3/4 Tokens.When Stake Out has at least 1 Token, Good Skill Checks consume 1 Token and are considered Great Skill Checks, granting an additional Progression bonus of 1 %. Great Skill Checks do not consume any Tokens."]
 		},
 		"12":{
 			"Name": "Kate Denson",
 			"Perks":["Dance With Me", "Windows of Opportunity", "Boil Over"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["When performing a rushed action to vault a Window, Pallet, or leave a Locker, you will not leave any Scratch Marks for the next 3 seconds. Dance With Me has a cool-down of 60/50/40 seconds.", "The Auras of Breakable Walls, Pallets, and Windows are revealed to you within 24/28/32 metres.", "Increases the intensity of the Struggle Effects on the Killer from your Wiggling by 60/70/80 %. Obscures the Auras of all Hooks from the Killer's Aura-reading abilities within 16 metres. Fills your Wiggle Meter by 33 % of your current Wiggle progression upon landing, when the Killer drops from great heights."]
 		},
 		"13":{
 			"Name": "Adam Francis",
 			"Perks":["Diversion", "Deliverance", "Autodidact"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["After being within the Killer's Terror Radius for 40/35/30 seconds without being chased, Diversion activates: Press the Active Ability button while crouched and motionless to throw a pebble, creating a distraction for the Killer at a distance of 20 metres from your location. The distraction consists of the following: Triggers a Loud Noise Notification. Creates fake Scratch Marks.", "After performing a Safe Hook Rescue on another Survivor, Deliverance activates: Causes your next Self-Unhook attempt to always succeed. Causes the Broken Status Effect for 100/80/60 seconds after unhooking yourself.", "Autodidact You start the Trial with a Progression penalty of -25 % for succeeding a Good Skill Check while healing another Survivor. Succeeding a Good Skill Check while healing another Survivor grants 1 Token, up to a maximum of 3/4/5 Tokens. Each Token grants a stack-able Progression bonus of +15 % for succeeding a Good Skill Check while healing another Survivor. Suppresses Great Skill Checks while healing another Survivor."]
 		},
 		"14":{
 			"Name": "Jeff Johansen",
