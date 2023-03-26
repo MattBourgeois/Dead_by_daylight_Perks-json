@@ -305,42 +305,43 @@
 		"17":{
 			"Name": "Nacy Wheeler",
 			"Perks": ["Situational Awareness", "Self-Aware", "Inner Healing"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["While repairing a Generator, its Aura is revealed in yellow to all other Survivors located within 32 metres. If the Killer downs a Survivor while you are repairing a Generator, you see the Auras of all other Survivors for 8/9/10 seconds.", "Increases your Walking speed by 10/15/20 %. Unlocks the ability to see your own Scratch Marks", "Each time you cleanse a Totem, Inner Healing activates: You are automatically healed 1 Health State when hiding inside a Locker for 10/9/8 seconds while injured or suffering from the Deep Wound Status Effect. Inner Healing does not activate if you currently suffer from the Broken Status Effect."]
 		},
 		"18":{
 			"Name": "Steve Harrington",
-			"Perks":["Guardian", "Kinship", "Renewa;"],
+			"Perks":["Guardian", "Kinship", "Renewal"],
 			"Perk_Descriptions":[]
 		},
 		"19":{
 			"Name": "Yui Kimura",
 			"Perks": ["Lucky Break", "Any Means Necessary", "Breakout"],
-			"Perk_Descriptions": []
+			"Perk_Descriptions": ["Whenever you are in the Injured State, Lucky Break activates: Suppresses your Pools of Blood and Scratch Marks for a maximum of 40/50/60 seconds, after which Lucky Break deactivates. Each 1 second spent healing another Survivor recharges Lucky Break by 1 second up to its maximum Effect duration. Lucky Break also deactivates whenever you are Healthy or in the Dying State.", "Press and hold the Active Ability button for 6/5/4 seconds while standing beside a dropped Pallet to reset it to its upright position. Grants the ability to see the Auras of all dropped but not yet destroyed Pallets in the environment.", "When within 6 metres of a carried Survivor, the following benefits apply: Grants a 5/6/7 % Haste Status Effect. Increases the Wiggle speed of the carried Survivor by +20 %."]
 		},
 		"20":{
 			"Name": "Zarina Kassir",
 			"Perks":["Off the Record", "Red Herring", "For the People"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["After being unhooked or unhooking yourself, Off the Record activates for the next 60/70/80 seconds: Prevents your Aura from being revealed to the Killer, if they attempt to read it. Suppresses Grunts of Pain when injured. Grants the Endurance Status Effect. This effect is cancelled prematurely if you perform a Conspicuous Action.", "After repairing a Generator for at least 3 seconds, its Aura is highlighted to you in yellow. The Generator stays highlighted until it is either fully repaired, you start repairing another Generator, or enter a Locker. Entering a Locker will trigger a Loud Noise Notification for the Killer at the highlighted Generator's location. Red Herring has a cool-down of 60/50/40 seconds.", "While healthy and healing another Survivor without using a Med-Kit, press the Active Ability button to activate For the People: Trades 1 Health State with the other Survivor. Heals a Survivor from the Dying State to the Injured State. Heals a Survivor from the Injured State to Healthy. You become injured and suffer from the Broken Status Effect for the next 80/70/60 seconds. You become the Killer's Obsession, if not already"
+		]
 		},
 		"21":{
 			"Name": "Cheryl Mason",
 			"Perks": ["Soul Guard", "Blood Pact", "Repressed Alliance"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["After being healed from or having recovered from the Dying State, Soul Guard grants you the Endurance Status Effect for the next 4/6/8 seconds. Any damage taken that would put you into the Dying State will instead trigger the Deep Wound Status Effect, after which you have 20 seconds to Mend yourself. Taking any damage while under the effect of Deep Wound or if its timer runs out will put you into the Dying State.Soul Guard allows you to completely recover from the Dying State when you are affected by the Cursed Status Effect. Soul Guard has a cool-down of 30 seconds.", "When you or the Obsession are injured, you both see each other's Auras. After healing the Obsession or being healed by the Obsession, you both gain the Haste Status Effect, moving at an increased speed of 5/6/7 % until you are no longer within 16 metres of each other. If you are the Obsession, Blood Pact deactivates.", "After repairing Generators for a total of 55/50/45 seconds, Repressed Alliance activates: Press the Active Ability button to call upon The Entity to block the Generator you are currently repairing for 30 seconds, after which Repressed Alliance deactivates. The Aura of the blocked Generator is revealed to all Survivors in white."]
 		},
 		"22":{
 			"Name": "Fleix Richter",
 			"Perks": ["Visionary", "Desperate Measures", "Built to Last"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["The Auras of Generators are revealed to you within 32 metres. Each time a Generator is completed, Visionary is deactivated for 20/18/16 seconds.", "Increases your Action speeds in Healing and Unhooking by 10/12/14 % for each injured, hooked, or dying Survivor, up to a maximum of 40/48/56 %.", "Hiding inside a Locker for 14/13/12 seconds while carrying a depleted Item will replenish its Charges to 99 %.Each use of Built to Last reduces this percentage by -33 %."]
 		},
 		"23":{
 			"Name": "Elodie Rakoto",
 			"Perks":["Appraisal", "Deception", "Power Struggle"],
-			"Perk_Descriptions": []
+			"Perk_Descriptions": ["When a Chest has already been opened, consume 1 Token to rummage through it for an Item. Rummage through Chests 40/60/80 % faster.", "You do not enter the Locker. The Locker's doors swing open and close swiftly, feining a Survivor entering it. Triggers a Loud Noise Notification at the Locker's location, feining a Survivor rushing to enter it. Suppresses the creation of Scratch Marks and Pools of Blood for 3 seconds.", "Reveals the Auras of available Pallets whenever you are in the Dying State. While being carried by The Killer, reaching 25/20/15 % Wiggling progression activates Power Struggle: You can drop a nearby, standing Pallet to stun the Killer and escape their grasp."]
 		},
 		"24":{
 			"Name": "Yun-Jin Lee",
 			"Perks": ["Fast Track", "Smash Hit", "Self-Preservation"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Whenever another Survivor is hooked, Fast Track gains 1/2/3 Tokens, up to a maximum of 9/18/27 Tokens. You consume all accumulated Tokens after a Great Skill Check on a Generator. Each Token grants a stack-able 1 % Progression bonus in addition to the default Progression bonus for succeeding a Great Skill Check.", "After stunning the Killer with a Pallet, break into a sprint at 150 % of your normal Running Movement speed for 4 seconds. Smash Hit causes the Exhausted Status Effect for 60/50/40 seconds.", "Whenever another Survivor is hit with a Basic Attack or Special Attack within 16 metres of you, Self-Preservation activates: Scratch Marks, Grunts of Pain when injured, and Bleeding are suppressed for the next 6/8/10 seconds."]
 		},
 		"25":{
 			"Name": "Jill Valentine",
