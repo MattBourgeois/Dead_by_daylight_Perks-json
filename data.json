@@ -356,22 +356,23 @@
 		"27":{
 			"Name": "Mikaela Reid",
 			"Perks": ["Clairvoyance", "Boon: Circle of Healing", "Boon: Shadow Step"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Whenever you cleanse a Totem, Clairvoyance activates: When empty-handed, press and hold the Ability button to unlock your full Aura-reading potential, allowing you to see the Auras of the Exit Gate Switches, Generators, Hooks, Chests, and the Hatch within 64 metres for 8/9/10 seconds.", "Totem to bless it and create a Boon Totem. Soft chimes ring out within a radius of 24 metres. Survivors inside the Boon Totem's range benefit from the following effects: Increases all Healing speeds by 40/45/50 %. Unlocks the Self-Care ability, allowing you to self-heal without needing a Med-KitIcon at 50 % of the normal Healing speed.", "Soft chimes ring out within a radius of 24 metres. Survivors inside the Boon Totem's range benefit from the following effects: Scratch Marks are suppressed. Auras are hidden from The Killer. Both effects linger for 2/3/4 seconds after leaving the Boon Totem's range."]
 		},
 		"28":{
 			"Name": "Jonah Vasquez",
 			"Perks":["Overcome", "Corrective Action", "Boon: Exponential"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Whenever you become injured, you retain the Movement Speed burst for 2 additional seconds. Overcome causes the Exhausted Status Effect for 60/50/40 seconds.", "You start the Trial with 1/2/3 Token(s) and gain a Token each time you succeed at a Great Skill Check, up to a maximum of 5 Tokens. Each time another Survivor cooperating with you fails a Skill Check, Corrective Action consumes 1 Token, transforming their Failed Skill Check into Good Skill Check instead.", "Totem to bless it and create a Boon Totem. Soft chimes ring out within a radius of 24 metres. Survivors inside the Boon Totem's range benefit from the following effects: 90/95/100 % bonus to the Recovery speed. Unlocks the Self-Recovery ability, allowing you to fully recover from the Dying State"
+		]
 		},
 		"29":{
 			"Name": "Yoichi Asakawa",
 			"Perks":["Parental Guuidance", "Empathic Connection", "Boon: Dark Theory"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["After stunning the Killer by any means, Parental Guidance suppresses your Scratch Marks, Pools of Blood, and Grunts of Pain for the next 5/6/7 seconds.", "Whenever another Survivor is injured, they can see your Aura when within 32/64/96 metres of your location. You heal other Survivors 10 % faster.", "Press and hold the Active Ability button near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out within a radius of 24 metres. Survivors inside the Boon Totem's range benefit from the following effects: 2 % Haste Status Effect. This effect lingers for 2/3/4 seconds after leaving the Boon Totem's range."]
 		},
 		"30":{
 			"Name": "Haddie Kaur",
 			"Perks":["Inner Focus", "Residual Manifest", "Overzealous"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["You can see the Scratch Marks of other Survivors Whenever another Survivor loses a Health State within 32 metres of you, the Killer's Aura is revealed to you for 3/4/5 seconds.", "After a successful Killer Blind, the Killer suffers from the Blindness Status Effect for 20/25/30 seconds. Residual Manifest grants the ability to rummage through an opened Chest once per Trial and will guarantee a basic Flashlight", "After cleansing a Totem, Overzealous activates: Increases your Repair speed by 6/7/8 % if it was a Dull Totem. Increases your Repair speed by 12/14/16 % if it was a Hex Totem. Overzealous deactivates when losing a Health State by any means."]
 		},
 		"31":{
 			"Name": "Ada Wong",
