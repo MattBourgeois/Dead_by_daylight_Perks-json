@@ -17,6 +17,7 @@ with open("data.json", "r") as d:
 
 
 
+
 # Creates new json file 
-with open("data2.json", "w") as f: 
-	json.dump(data, f)
+# with open("data2.json", "w") as f: 
+# 	json.dump(data, f)
