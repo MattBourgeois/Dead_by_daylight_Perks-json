@@ -290,7 +290,7 @@
 		"14":{
 			"Name": "Jeff Johansen",
 			"Perks":["Breakdown", "Aftercare", "Distortion"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Each time you are unhooked or unhook yourself, the Hook breaks and the Killer's Aura is revealed to you for 4/5/6 seconds. A Hook broken by Breakdown takes 180 seconds to respawn.", "Unlocks potential in your Aura-reading ability. You see the Aura of the last 1/2/3 Survivor(s): You have rescued from a Hook, or who have rescued you from a Hook. You have completed a Healing action on, or who have completed a Healing action on you. They also see your Aura.All effects of Aftercare are reset upon being hooked by the Killer", "Whenever the Killer attempts to read your Aura, Distortion activates and 1 Token is consumed: Your Aura will not be shown to the Killer and you will not leave any Scratch Marks for the next 6/8/10 seconds. Every 30 seconds you are within the Killer's Terror Radius, Distortion gains back 1 Token.Distortion does not activate when you are in the Dying State."]
 		},
 		"15":{
 			"Name": "Jane Romero",
