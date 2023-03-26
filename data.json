@@ -295,12 +295,12 @@
 		"15":{
 			"Name": "Jane Romero",
 			"Perks":["Solidarity", "Poised", "Head On"],
-			"Perk_Descriptions": []
+			"Perk_Descriptions": ["When injured, healing another Survivor without using a Med-Kit also heals you with a Conversion rate of 40/45/50 %.", "After a Generator is completed, you will not leave any Scratch Marks for the next 6/8/10 seconds.", "While standing in a Locker for 3 seconds, Head On activates: When performing a rushed action to leave a Locker, stun the Killer for 3 seconds if they are within range. Head On causes the Exhausted Status Effect for 60/50/40 seconds.Head On cannot be used when Exhausted or when you have accrued Idle Crows."]
 		},
 		"16":{
 			"Name": "Ashley J Williams",
 			"Perks": ["Flip-Flop", "Buckle Up", "Mettle of Man"],
-			"Perk_Descriptions": []
+			"Perk_Descriptions": ["While in the Dying State, 50 % of your Recovery progression is converted into Wiggling progression, up to a maximum of 40/45/50 %, once you are picked up by the Killer", "When healing another Survivor from the Dying State to the Injured State, they are granted a 10 % Haste Status Effect for 6/8/10 seconds and the Killer's Aura is revealed to the both of you for the same duration.", "After triggering your third Protection Hit, Mettle of Man activates: While injured, Mettle of Man shields you from going down the next time you take damage. Healing back to full health will reveal your Aura to the Killer whenever you are farther than 12/14/16 metres from them."]
 		},
 		"17":{
 			"Name": "Nacy Wheeler",
