@@ -346,12 +346,12 @@
 		"25":{
 			"Name": "Jill Valentine",
 			"Perks":["Counterforce", "Resurgence", "Blast Mine"],
-			"Perk_Descriptions":[]
+			"Perk_Descriptions":["Whenever another Survivor is hit with a Basic Attack or Special Attack within 16 metres of you, Self-Preservation activates: Scratch Marks, Grunts of Pain when injured, and Bleeding are suppressed for the next 6/8/10 seconds.", "After being unhooked or unhooking yourself, instantly gain 40/45/50 % to your Healing progress.", "After repairing Generators for a total of 50 %, Blast Mine activates: After repairing a Generator for at least 3 seconds, press the Active Ability button to install a Trap, which stays active for 40/45/50 seconds.The Aura of Trapped Generators are revealed in yellow to all Survivors. When the Killer damages a Trapped Generator, the Trap explodes, stunning them and blinding anyone nearby."]
 		},
 		"26":{
 			"Name": "Leon Scott Kennedy",
 			"Perks":["Bite the Bullet", "Flashbang", "Rookie Spirit"],
-			"Perk_Descriptions": []
+			"Perk_Descriptions": ["When healing yourself or another Survivor, Grunts of Pain and all noises related to the Healing action are suppressed: Failed Healing Skill Checks do not trigger a Loud Noise Notification and only apply a Regression penalty of 3/2/1 %.", "After repairing Generators for a total of 70/60/50 %, Flashbang activates:Enter a Locker while empty-handed and press the Ability button to craft a Flash Grenade.", "While repairing Generators, complete 5'/4/3 ' Good or Great Skill Checks to activate Rookie Spirit for the remainder of the Trial: Once active, the Auras of any regressing Generators are revealed to you."]
 		},
 		"27":{
 			"Name": "Mikaela Reid",
