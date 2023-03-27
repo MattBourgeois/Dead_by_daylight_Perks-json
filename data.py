@@ -3,8 +3,8 @@ import json
 with open("data.json", "r") as d:
 	data = json.load(d)
 
-Killer_Perk = data["Players"]["Killers"]["1"]["Perks"]
-Survivor_Perks = data["Players"]["Survivors"]["1"]["Perks"]
+# Killer_Perk = data["Players"]["Killers"]["1"]["Perks"]
+# Survivor_Perks = data["Players"]["Survivors"]["1"]["Perks"]
 
 class Killer:
 	def __init__(self, Name, Perks, Perk_description, Add_ons):
@@ -13,8 +13,8 @@ class Killer:
 		self.Perk_description = Perk_description
 		self.Add_ons = Add_ons
 
-	def GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons):
-		return data["Player"]["Killer"]["Perks"][0]
+	def GetKillerPerks():
+		return dat
 
 	def create(self):
 		
@@ -25,5 +25,7 @@ class Killer:
 
 # Killer.GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons)
 
-print(Killer_Perk)
-print(Killer.GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons))
+# print(Killer_Perk)
+# print(Killer.GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons))
+
+Killer.GetKillerPerks()
