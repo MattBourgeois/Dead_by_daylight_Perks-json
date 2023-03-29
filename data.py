@@ -14,10 +14,10 @@ class Killer:
 		self.Add_ons = Add_ons
 
 	def GetKillerPerks():
-		return dat
+		print( data["Killers"]["Perks"]["0"])
 
 	def create(self):
-		
+		s
 		pass
 
 	# def print(self):
