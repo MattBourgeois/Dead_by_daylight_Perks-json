@@ -13,12 +13,11 @@ class Killer:
 		self.Perk_description = Perk_description
 		self.Add_ons = Add_ons
 
-	def GetKillerPerks():
-		x = ["1"]
-		print( data["Killers"]["0"]["Perks"][0])
+	def GetKillerPerks(random ,num):
+
+		print( data["Killers"][random]["Perks"][num])
 
 	def create(self):
-		s
 		pass
 
 	# def print(self):
@@ -29,4 +28,4 @@ class Killer:
 # print(Killer_Perk)
 # print(Killer.GetKillerPerks(self, Name, Perks, Perk_Description, Add_ons))
 
-Killer.GetKillerPerks()
+Killer.GetKillerPerks("1", 0)
