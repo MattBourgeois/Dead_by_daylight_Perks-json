@@ -17,6 +17,7 @@ class Killer:
 	def GetKillerPerks(killer_num ,perk_num):
 		print( data["Killers"][killer_num]["Perks"][perk_num])
 		print(data["Killers"][killer_num]["Perk_Description"][perk_num])
+		print(x)
 
 	def create(self):
 		pass
