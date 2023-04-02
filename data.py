@@ -41,7 +41,6 @@ i = random.randint(0, 36) #Survivor numbers
 # Survivor.GetSuvivorPerks(f"{i}", 0)
 # Killer.GetKillerPerks(f"{x}", y)
 
-for a in range(0,4,1):
+for a in range(0,4,1): #Killer 4 random
 	x = random.randint(0, 30)
 	Killer.GetKillerPerks(f"{x}", 0)
-	
