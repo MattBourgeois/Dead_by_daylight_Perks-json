@@ -27,7 +27,6 @@ class Survivor:
 		print(data["Survivors"][Sur_perks]["Perk_Description"][perk_num])
 
 
-
 # x = random.randint(0, 30) #Killer numbers
 
 i = random.randint(0, 36) #Survivor numbers
@@ -38,4 +37,4 @@ i = random.randint(0, 36) #Survivor numbers
 for a in range(0,4,1): #4 random
 	x = random.randint(0, 30)
 	Killer.GetKillerPerks(f"{x}", 0) #Killer 4
-	Survivor.GetSuvivorPerks(f"{x}", 0) #Survivor 4
+	# Survivor.GetSuvivorPerks(f"{x}", 0) #Survivor 4
