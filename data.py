@@ -4,8 +4,6 @@ import random
 with open("data.json", "r") as d:
 	data = json.load(d)
 
-# Killer_Perk = data["Players"]["Killers"]["1"]["Perks"]
-# Survivor_Perks = data["Players"]["Survivors"]["1"]["Perks"]
 
 class Killer:
 	def __init__(self, Name, Perks, Perk_Description, Add_ons):
@@ -28,19 +26,16 @@ class Survivor:
 		print(data["Survivors"][Sur_perks]["Perks"][perk_num])
 		print(data["Survivors"][Sur_perks]["Perk_Description"][perk_num])
 
-	def create(self):
-		pass
 
-	# def print(self):
-	# 	print(f"This is {self.Name} who has {self.Perks(data)} which means {self.Perk_description[x]}")
 
 # x = random.randint(0, 30) #Killer numbers
 
 i = random.randint(0, 36) #Survivor numbers
 
-# Survivor.GetSuvivorPerks(f"{i}", 0)
-# Killer.GetKillerPerks(f"{x}", y)
+# Survivor.GetSuvivorPerks(f"{i}", 0) #method for prints a single random survivor perk
+# Killer.GetKillerPerks(f"{x}", y) #method for printing a single random killer perk
 
-for a in range(0,4,1): #Killer 4 random
+for a in range(0,4,1): #4 random
 	x = random.randint(0, 30)
-	Killer.GetKillerPerks(f"{x}", 0)
+	Killer.GetKillerPerks(f"{x}", 0) #Killer 4
+	Survivor.GetSuvivorPerks(f"{x}", 0) #Survivor 4
